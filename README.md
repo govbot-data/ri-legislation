@@ -1,4 +1,4 @@
-# 🏛️ ri legislation file tree
+# 🏛️ Rhode Island legislation file tree
 
 Download a copy of your states legislation.
 
