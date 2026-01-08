@@ -1,0 +1,75 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB7008",
+  "title": "AN ACT RELATING TO MOTOR AND OTHER VEHICLES -- PARKING FACILITIES AND PRIVILEGES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Includes the governor's commission on disabilities in the decision making process for the disability parking enforcement enhancement program and requires an annual report be submitted to the governor's commission."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Corvese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Corvese\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7008",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7008.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-01-08T12:36:06Z"
+  }
+}
