@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "01/09/2026 Introduced, referred to Senate Housing and Municipal Government",
+    "date": "2026-01-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2036"
+}

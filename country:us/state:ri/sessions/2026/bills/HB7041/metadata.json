@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
+  "identifier": "HB7041",
+  "title": "AN ACT RELATING TO LABOR AND LABOR RELATIONS -- FIREFIGHTERS' ARBITRATION",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,30 +10,20 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Provides that all contractual provisions in a firefighters collective bargaining agreement continue until a successor agreement has been reached or an interest arbitration award has been rendered."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
+      "description": "01/09/2026 Introduced, referred to House Labor",
+      "date": "2026-01-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
@@ -42,51 +32,11 @@
   ],
   "sponsorships": [
     {
-      "name": "O'Brien",
+      "name": "Bennett",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Shanley",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Solomon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dawson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Biah",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
-      "organization_id": null
-    },
-    {
-      "name": "McEntee",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
+      "person_id": "~{\"name\": \"Bennett\"}",
       "organization_id": null
     },
     {
@@ -106,11 +56,19 @@
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "Hull",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Hull\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shanley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanley\"}",
       "organization_id": null
     },
     {
@@ -120,15 +78,47 @@
       "primary": true,
       "person_id": "~{\"name\": \"Corvese\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Potter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Potter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Voas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Voas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNamara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McNamara\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7041",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7041.pdf",
           "media_type": "application/pdf"
         }
       ],

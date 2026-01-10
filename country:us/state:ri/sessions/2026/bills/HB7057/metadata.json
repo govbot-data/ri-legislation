@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
+  "identifier": "HB7057",
+  "title": "AN ACT RELATING TO TAXATION -- PERSONAL INCOME TAX",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,30 +10,20 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Gradually phases in modifications to federal adjusted gross income over a five (5) year period for social security income, from twenty percent (20%) up to one hundred percent (100%), beginning on or after January 1, 2027."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
+      "description": "01/09/2026 Introduced, referred to House Finance",
+      "date": "2026-01-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
@@ -42,93 +32,93 @@
   ],
   "sponsorships": [
     {
-      "name": "O'Brien",
+      "name": "Ackerman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
+      "person_id": "~{\"name\": \"Ackerman\"}",
       "organization_id": null
     },
     {
-      "name": "Shanley",
+      "name": "Serpa",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
+      "person_id": "~{\"name\": \"Serpa\"}",
       "organization_id": null
     },
     {
-      "name": "Solomon",
+      "name": "Kennedy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
+      "person_id": "~{\"name\": \"Kennedy\"}",
       "organization_id": null
     },
     {
-      "name": "Dawson",
+      "name": "Donovan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
+      "person_id": "~{\"name\": \"Donovan\"}",
       "organization_id": null
     },
     {
-      "name": "Biah",
+      "name": "Shallcross Smith",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
+      "person_id": "~{\"name\": \"Shallcross Smith\"}",
       "organization_id": null
     },
     {
-      "name": "McEntee",
+      "name": "Newberry",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
+      "person_id": "~{\"name\": \"Newberry\"}",
       "organization_id": null
     },
     {
-      "name": "Noret",
+      "name": "Bennett",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Noret\"}",
+      "person_id": "~{\"name\": \"Bennett\"}",
       "organization_id": null
     },
     {
-      "name": "Read",
+      "name": "McNamara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Read\"}",
+      "person_id": "~{\"name\": \"McNamara\"}",
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "Speakman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Speakman\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "Fellela",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
+      "person_id": "~{\"name\": \"Fellela\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7057",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7057.pdf",
           "media_type": "application/pdf"
         }
       ],

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
+  "identifier": "HB7030",
+  "title": "AN ACT RELATING TO HEALTH AND SAFETY -- HEALTHCARE WORKER PLATFORM ACT",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,15 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Creates the healthcare worker platform act that requires platforms offering healthcare shifts to register with the Rhode Island department of health while exempting them from being classified as nursing service agencies."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
+      "description": "01/09/2026 Introduced, referred to House Health & Human Services",
+      "date": "2026-01-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -26,29 +26,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "O'Brien",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
-      "organization_id": null
-    },
     {
       "name": "Shanley",
       "classification": "primary",
@@ -58,59 +40,35 @@
       "organization_id": null
     },
     {
-      "name": "Solomon",
+      "name": "Craven",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
+      "person_id": "~{\"name\": \"Craven\"}",
       "organization_id": null
     },
     {
-      "name": "Dawson",
+      "name": "Caldwell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
+      "person_id": "~{\"name\": \"Caldwell\"}",
       "organization_id": null
     },
     {
-      "name": "Biah",
+      "name": "Bennett",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
+      "person_id": "~{\"name\": \"Bennett\"}",
       "organization_id": null
     },
     {
-      "name": "McEntee",
+      "name": "Casimiro",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Noret",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Noret\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Read",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Read\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Azzinaro",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Casimiro\"}",
       "organization_id": null
     },
     {
@@ -120,15 +78,39 @@
       "primary": true,
       "person_id": "~{\"name\": \"Corvese\"}",
       "organization_id": null
+    },
+    {
+      "name": "Morales",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Morales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paplauskas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Paplauskas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hopkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopkins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7030",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7030.pdf",
           "media_type": "application/pdf"
         }
       ],

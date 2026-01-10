@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
+  "identifier": "HB7054",
+  "title": "AN ACT RELATING TO EDUCATION -- THE RHODE ISLAND PREKINDERGARTEN EDUCATION ACT",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,30 +10,20 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Establishes guidelines for continued implementation and expansion of public, high-quality kindergarten education programs."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
+      "description": "01/09/2026 Introduced, referred to House Finance",
+      "date": "2026-01-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
@@ -42,19 +32,19 @@
   ],
   "sponsorships": [
     {
-      "name": "O'Brien",
+      "name": "McNamara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
+      "person_id": "~{\"name\": \"McNamara\"}",
       "organization_id": null
     },
     {
-      "name": "Shanley",
+      "name": "Cotter",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
+      "person_id": "~{\"name\": \"Cotter\"}",
       "organization_id": null
     },
     {
@@ -66,69 +56,69 @@
       "organization_id": null
     },
     {
-      "name": "Dawson",
+      "name": "Potter",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
+      "person_id": "~{\"name\": \"Potter\"}",
       "organization_id": null
     },
     {
-      "name": "Biah",
+      "name": "Voas",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
+      "person_id": "~{\"name\": \"Voas\"}",
       "organization_id": null
     },
     {
-      "name": "McEntee",
+      "name": "Ackerman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
+      "person_id": "~{\"name\": \"Ackerman\"}",
       "organization_id": null
     },
     {
-      "name": "Noret",
+      "name": "Cruz",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Noret\"}",
+      "person_id": "~{\"name\": \"Cruz\"}",
       "organization_id": null
     },
     {
-      "name": "Read",
+      "name": "Giraldo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Read\"}",
+      "person_id": "~{\"name\": \"Giraldo\"}",
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "Lombardi",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Lombardi\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "Hull",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
+      "person_id": "~{\"name\": \"Hull\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7054",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7054.pdf",
           "media_type": "application/pdf"
         }
       ],

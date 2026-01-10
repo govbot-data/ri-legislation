@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
+  "identifier": "HB7027",
+  "title": "AN ACT RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,15 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Expands the requirement that all high schools and middle schools, whether they are publicly or privately run to maintain on site a functional AED while establishing and implementing a cardiac emergency response plan in these schools."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
+      "description": "01/09/2026 Introduced, referred to House Education",
+      "date": "2026-01-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
@@ -26,69 +26,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "O'Brien",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Shanley",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Solomon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dawson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Biah",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
-      "organization_id": null
-    },
-    {
-      "name": "McEntee",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
-      "organization_id": null
-    },
     {
       "name": "Noret",
       "classification": "primary",
@@ -106,29 +48,77 @@
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "McNamara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"McNamara\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "O'Brien",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
+      "person_id": "~{\"name\": \"O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Biah",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Biah\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Finkelman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Finkelman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Serpa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Serpa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donovan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Messier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Messier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phillips",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Phillips\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7027",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7027.pdf",
           "media_type": "application/pdf"
         }
       ],

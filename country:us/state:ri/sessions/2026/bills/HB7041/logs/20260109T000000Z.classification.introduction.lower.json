@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "01/09/2026 Introduced, referred to House Labor",
+    "date": "2026-01-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7041"
+}

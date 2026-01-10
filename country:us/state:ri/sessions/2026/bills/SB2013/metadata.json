@@ -1,8 +1,8 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "identifier": "SB2013",
+  "title": "AN ACT RELATING TO PUBLIC UTILITIES AND CARRIERS -- TERMINATION OF SERVICE TO PERSONS WHO ARE DISABLED, SERIOUSLY ILL, OR IN ARREARS OF PAYMENT",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -10,30 +10,20 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Extends the forbearance of utility terminations for customers with serious illness certifications and would amend various provisions related to the termination of utility services for persons who are disabled, seriously ill, or in arrears."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "01/09/2026 Introduced, referred to Senate Commerce",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
@@ -42,93 +32,93 @@
   ],
   "sponsorships": [
     {
-      "name": "O'Brien",
+      "name": "Kallman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
+      "person_id": "~{\"name\": \"Kallman\"}",
       "organization_id": null
     },
     {
-      "name": "Shanley",
+      "name": "Britto",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
+      "person_id": "~{\"name\": \"Britto\"}",
       "organization_id": null
     },
     {
-      "name": "Solomon",
+      "name": "Sosnowski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
+      "person_id": "~{\"name\": \"Sosnowski\"}",
       "organization_id": null
     },
     {
-      "name": "Dawson",
+      "name": "Urso",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
+      "person_id": "~{\"name\": \"Urso\"}",
       "organization_id": null
     },
     {
-      "name": "Biah",
+      "name": "Bissaillon",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
+      "person_id": "~{\"name\": \"Bissaillon\"}",
       "organization_id": null
     },
     {
-      "name": "McEntee",
+      "name": "Acosta",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
+      "person_id": "~{\"name\": \"Acosta\"}",
       "organization_id": null
     },
     {
-      "name": "Noret",
+      "name": "Mack",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Noret\"}",
+      "person_id": "~{\"name\": \"Mack\"}",
       "organization_id": null
     },
     {
-      "name": "Read",
+      "name": "Gu",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Read\"}",
+      "person_id": "~{\"name\": \"Gu\"}",
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "Lauria",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Lauria\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "Vargas",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
+      "person_id": "~{\"name\": \"Vargas\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "2013",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2013.pdf",
           "media_type": "application/pdf"
         }
       ],

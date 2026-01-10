@@ -1,8 +1,8 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7007",
-  "title": "AN ACT RELATING TO ELECTIONS -- MAIL BALLOTS",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "identifier": "SB2056",
+  "title": "AN ACT RELATING TO CRIMINAL OFFENSES -- WEAPONS",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -10,30 +10,20 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Entitles disabled and military voters to utilize electronically transmitted ballots."
+      "abstract": "Disqualifies individuals with prior felony convictions or nolo contendere pleas from purchasing or possessing a firearm. It also prevents the sentencing judge from suspending the first two (2) years of any sentence under limited circumstances."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/07/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-07",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "01/09/2026 Introduced, referred to Senate Judiciary",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:36:06Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
@@ -42,93 +32,93 @@
   ],
   "sponsorships": [
     {
-      "name": "O'Brien",
+      "name": "Euer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
+      "person_id": "~{\"name\": \"Euer\"}",
       "organization_id": null
     },
     {
-      "name": "Shanley",
+      "name": "Valverde",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Shanley\"}",
+      "person_id": "~{\"name\": \"Valverde\"}",
       "organization_id": null
     },
     {
-      "name": "Solomon",
+      "name": "Quezada",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Solomon\"}",
+      "person_id": "~{\"name\": \"Quezada\"}",
       "organization_id": null
     },
     {
-      "name": "Dawson",
+      "name": "Kallman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Dawson\"}",
+      "person_id": "~{\"name\": \"Kallman\"}",
       "organization_id": null
     },
     {
-      "name": "Biah",
+      "name": "Lauria",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Biah\"}",
+      "person_id": "~{\"name\": \"Lauria\"}",
       "organization_id": null
     },
     {
-      "name": "McEntee",
+      "name": "Vargas",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
+      "person_id": "~{\"name\": \"Vargas\"}",
       "organization_id": null
     },
     {
-      "name": "Noret",
+      "name": "Acosta",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Noret\"}",
+      "person_id": "~{\"name\": \"Acosta\"}",
       "organization_id": null
     },
     {
-      "name": "Read",
+      "name": "Mack",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Read\"}",
+      "person_id": "~{\"name\": \"Mack\"}",
       "organization_id": null
     },
     {
-      "name": "Azzinaro",
+      "name": "Pearson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Azzinaro\"}",
+      "person_id": "~{\"name\": \"Pearson\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "Zurier",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
+      "person_id": "~{\"name\": \"Zurier\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "2056",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2056.pdf",
           "media_type": "application/pdf"
         }
       ],
