@@ -1,40 +1,32 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB2014",
-  "title": "AN ACT RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT AND INVESTMENT ACT",
+  "identifier": "SR2068",
+  "title": "SENATE RESOLUTION EXPRESSING DEEPEST CONDOLENCES ON THE PASSING OF THE HONORABLE SCOTT BILL HIRST",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
-  "abstracts": [
-    {
-      "note": "summary",
-      "abstract": "Requires continuous updating of information from internet service providers about broadband, technology, and services."
-    }
-  ],
+  "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/09/2026 Introduced, referred to Senate Commerce",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
+      "description": "01/13/2026 Recommended for Immediate Consideration",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-10T12:31:02Z"
+        "log_file_created": "2026-01-14T12:36:29Z"
       }
     },
     {
-      "description": "01/13/2026 Withdrawn at sponsor's request",
+      "description": "01/13/2026 Senate read and passed",
       "date": "2026-01-13",
-      "organization_id": "~{\"classification\": \"legislature\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "withdrawal"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -44,51 +36,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Ujifusa",
+      "name": "Morgan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ujifusa\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Britto",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Britto\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kallman",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Kallman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Acosta",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Acosta\"}",
-      "organization_id": null
-    },
-    {
-      "name": "McKenney",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McKenney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gu",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gu\"}",
+      "person_id": "~{\"name\": \"Morgan\"}",
       "organization_id": null
     },
     {
@@ -100,19 +52,11 @@
       "organization_id": null
     },
     {
-      "name": "Valverde",
+      "name": "Appollonio",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Valverde\"}",
-      "organization_id": null
-    },
-    {
-      "name": "DiMario",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"DiMario\"}",
+      "person_id": "~{\"name\": \"Appollonio\"}",
       "organization_id": null
     },
     {
@@ -122,15 +66,63 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mack\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dimitri",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dimitri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Urso",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Urso\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Felag",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felag\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rogers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Burke\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "2014",
+      "note": "2068",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2014.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2068.pdf",
           "media_type": "application/pdf"
         }
       ],

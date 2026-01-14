@@ -28,6 +28,16 @@
       "_processing": {
         "log_file_created": "2026-01-08T12:36:06Z"
       }
+    },
+    {
+      "description": "01/13/2026 Committee transferred to House Finance",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:36:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:36:06Z"
+    "logs_latest_update": "2026-01-14T12:36:29Z"
   }
 }
