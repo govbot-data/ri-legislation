@@ -1,50 +1,28 @@
 {
   "legislative_session": "2026",
-  "identifier": "HR7028",
-  "title": "HOUSE RESOLUTION EXTENDING THE REPORTING AND EXPIRATION DATES, AND AMENDING THE MEMBERSHIP OF THE SPECIAL HOUSE COMMISSION TO STUDY AND PROVIDE FINDINGS AND POTENTIAL SOLUTIONS TO ADDRESS THE FLOODING OF THE PAWTUXET RIVER",
+  "identifier": "HB7135",
+  "title": "AN ACT RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends and increase the membership of the commission to address flooding of the Pawtuxet River from eleven (11) to thirteen (13), and would extend the reporting date from March 2, 2026, to March 5, 2027, and expire on June 2, 2027."
+      "abstract": "Creates a program through which fire departments and fire districts are notified of locations of registrants of electric and hybrid motor vehicles can register their vehicles with their local fire department or fire district."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/09/2026 Introduced, referred to House Environment and Natural Resources",
-      "date": "2026-01-09",
+      "description": "01/15/2026 Introduced, referred to House State Government & Elections",
+      "date": "2026-01-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-10T12:31:02Z"
-      }
-    },
-    {
-      "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-10T12:31:02Z"
-      }
-    },
-    {
-      "description": "01/15/2026 Committee recommends passage",
-      "date": "2026-01-15",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
@@ -78,6 +56,54 @@
       "organization_id": null
     },
     {
+      "name": "Casey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Casey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shanley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Casimiro",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Casimiro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hull",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hull\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corvese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Corvese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Serpa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Serpa\"}",
+      "organization_id": null
+    },
+    {
       "name": "Paplauskas",
       "classification": "primary",
       "entity_type": "person",
@@ -89,10 +115,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7028",
+      "note": "7135",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7028.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7135.pdf",
           "media_type": "application/pdf"
         }
       ],

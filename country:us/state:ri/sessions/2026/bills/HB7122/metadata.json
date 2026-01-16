@@ -1,34 +1,28 @@
 {
   "legislative_session": "2026",
-  "identifier": "SR2069",
-  "title": "SENATE RESOLUTION EXPRESSING DEEPEST CONDOLENCES ON THE PASSING OF BARBARA DENNEN",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB7122",
+  "title": "AN ACT RELATING TO TAXATION -- PROPERTY SUBJECT TO TAXATION",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Exempts from taxation the real and tangible personal property of Community MusicWorks located in the city of Providence."
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/14/2026 Placed on the Senate Consent Calendar  (01/15/2026)",
-      "date": "2026-01-14",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-15T12:36:05Z"
-      }
-    },
-    {
-      "description": "01/15/2026 Senate read and passed",
+      "description": "01/15/2026 Introduced, referred to House Municipal Government & Housing",
       "date": "2026-01-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "introduction",
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
@@ -38,21 +32,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Pearson",
+      "name": "Sanchez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Pearson\"}",
+      "person_id": "~{\"name\": \"Sanchez\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "2069",
+      "note": "7122",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2069.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7122.pdf",
           "media_type": "application/pdf"
         }
       ],
