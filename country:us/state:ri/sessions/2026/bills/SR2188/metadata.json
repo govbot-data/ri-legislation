@@ -1,0 +1,79 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR2188",
+  "title": "SENATE RESOLUTION EXPRESSING DEEPEST CONDOLENCES ON THE PASSING OF THE HONORABLE RICHARD SERRA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "01/20/2026 Recommended for Immediate Consideration",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:39:09Z"
+      }
+    },
+    {
+      "description": "01/20/2026 Senate read and passed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:39:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Morgan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Morgan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "2188",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2188.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-01-21T12:39:09Z"
+  }
+}

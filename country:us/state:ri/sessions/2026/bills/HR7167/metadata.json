@@ -1,40 +1,22 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7023",
-  "title": "AN ACT RELATING TO EDUCATION -- COOPERATIVE SERVICE AMONG SCHOOL DISTRICTS",
+  "identifier": "HR7167",
+  "title": "HOUSE RESOLUTION EXPRESSING CONDOLENCES ON THE PASSING OF ASHBEL TINGLEY WALL, II",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
-  "abstracts": [
-    {
-      "note": "summary",
-      "abstract": "Amends the composition of the Urban Collaborative and provides that the collaborative be governed by a board of trustees."
-    }
-  ],
+  "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/09/2026 Introduced, referred to House Education",
-      "date": "2026-01-09",
+      "description": "01/20/2026 House read and passed",
+      "date": "2026-01-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-10T12:31:02Z"
-      }
-    },
-    {
-      "description": "01/20/2026 Withdrawn at sponsor's request",
-      "date": "2026-01-20",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "withdrawal"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -44,27 +26,51 @@
   ],
   "sponsorships": [
     {
-      "name": "Lombardi",
+      "name": "Shekarchi",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Lombardi\"}",
+      "person_id": "~{\"name\": \"Shekarchi\"}",
       "organization_id": null
     },
     {
-      "name": "Hull",
+      "name": "Blazejewski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hull\"}",
+      "person_id": "~{\"name\": \"Blazejewski\"}",
       "organization_id": null
     },
     {
-      "name": "Tanzi",
+      "name": "Dawson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Tanzi\"}",
+      "person_id": "~{\"name\": \"Dawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chippendale",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chippendale\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Newberry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newberry\"}",
       "organization_id": null
     },
     {
@@ -76,29 +82,37 @@
       "organization_id": null
     },
     {
-      "name": "Sanchez",
+      "name": "Diaz",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sanchez\"}",
+      "person_id": "~{\"name\": \"Diaz\"}",
       "organization_id": null
     },
     {
-      "name": "Felix",
+      "name": "Shallcross Smith",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Felix\"}",
+      "person_id": "~{\"name\": \"Shallcross Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fogarty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fogarty\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7023",
+      "note": "7167",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7023.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7167.pdf",
           "media_type": "application/pdf"
         }
       ],
