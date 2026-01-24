@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "01/23/2026 Introduced, referred to Senate Judiciary",
+    "date": "2026-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2286"
+}
