@@ -38,6 +38,18 @@
       "_processing": {
         "log_file_created": "2026-01-24T12:31:46Z"
       }
+    },
+    {
+      "description": "01/27/2026 Committee recommended measure be held for further study",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -96,6 +108,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:31:46Z"
+    "logs_latest_update": "2026-01-28T12:39:02Z"
   }
 }
