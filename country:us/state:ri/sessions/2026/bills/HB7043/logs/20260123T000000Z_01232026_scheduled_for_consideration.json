@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "01/23/2026 Scheduled for consideration",
+    "date": "2026-01-23",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB7043"
+}
