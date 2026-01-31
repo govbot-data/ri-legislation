@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows the Honorable Mayor Frank Picozzi to join Madeline Marie Hopkins and Cameron David Charon in Marriage on or about February 10, 2026, within the City of Warwick, Rhode Island."
+      "abstract": "Allows the Honorable Mayor Frank Picozzi to join Madeline Marie Hopkins and Cameron David Charron in Marriage on or about February 10, 2026, within the City of Warwick, Rhode Island."
     }
   ],
   "other_titles": [],
@@ -50,6 +50,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-23T12:37:01Z"
+      }
+    },
+    {
+      "description": "01/27/2026 Signed by Governor",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:36:36Z"
       }
     }
   ],
@@ -109,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:37:01Z"
+    "logs_latest_update": "2026-01-31T12:36:36Z"
   }
 }
