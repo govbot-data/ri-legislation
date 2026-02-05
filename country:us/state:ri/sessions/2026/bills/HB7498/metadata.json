@@ -1,56 +1,29 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7408",
-  "title": "AN ACT RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2026 RELATING TO ROGER WILLIAMS MEDICAL CENTER AND OUR LADY OF FATIMA HOSPITAL AND AUTHORIZING THE STATE OF RHODE ISLAND TO PROVIDE FINANCING SUPPORT TO ASSIST THE SALE OF THE HOSPITALS TO CHARTERCARE HEALTH OF RHODE ISLAND, INC.",
+  "identifier": "HB7498",
+  "title": "AN ACT RELATING TO MOTOR AND OTHER VEHICLES -- OPERATORS' AND CHAUFFEURS' LICENSES",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Authorizes driver education schools to offer the driver training curriculum in a classroom setting or an instructor-led virtual format."
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/29/2026 Introduced, referred to House Finance",
-      "date": "2026-01-29",
+      "description": "02/04/2026 Introduced, referred to House State Government & Elections",
+      "date": "2026-02-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction",
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-30T12:42:48Z"
-      }
-    },
-    {
-      "description": "01/30/2026 Scheduled for hearing  (02/03/2026)",
-      "date": "2026-01-30",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-31T12:36:36Z"
-      }
-    },
-    {
-      "description": "02/03/2026 Committee recommended measure be held for further study",
-      "date": "2026-02-03",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-05T12:52:05Z"
-      }
-    },
-    {
-      "description": "02/04/2026 Scheduled for consideration  (02/06/2026)",
-      "date": "2026-02-04",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-05T12:52:05Z"
@@ -59,59 +32,51 @@
   ],
   "sponsorships": [
     {
-      "name": "Abney",
+      "name": "Fogarty",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Abney\"}",
+      "person_id": "~{\"name\": \"Fogarty\"}",
       "organization_id": null
     },
     {
-      "name": "Slater",
+      "name": "Casimiro",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Slater\"}",
+      "person_id": "~{\"name\": \"Casimiro\"}",
       "organization_id": null
     },
     {
-      "name": "O'Brien",
+      "name": "Boylan",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
+      "person_id": "~{\"name\": \"Boylan\"}",
       "organization_id": null
     },
     {
-      "name": "Brien",
+      "name": "Carson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brien\"}",
+      "person_id": "~{\"name\": \"Carson\"}",
       "organization_id": null
     },
     {
-      "name": "Shekarchi",
+      "name": "Shallcross Smith",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Shekarchi\"}",
+      "person_id": "~{\"name\": \"Shallcross Smith\"}",
       "organization_id": null
     },
     {
-      "name": "Corvese",
+      "name": "Spears",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Corvese\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Blazejewski",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Blazejewski\"}",
+      "person_id": "~{\"name\": \"Spears\"}",
       "organization_id": null
     },
     {
@@ -123,11 +88,19 @@
       "organization_id": null
     },
     {
-      "name": "Cortvriend",
+      "name": "Handy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cortvriend\"}",
+      "person_id": "~{\"name\": \"Handy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alzate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alzate\"}",
       "organization_id": null
     },
     {
@@ -142,10 +115,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7408",
+      "note": "7498",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7408.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7498.pdf",
           "media_type": "application/pdf"
         }
       ],
