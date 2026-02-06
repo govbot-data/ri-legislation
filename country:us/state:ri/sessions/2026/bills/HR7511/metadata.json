@@ -1,50 +1,27 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB7306",
-  "title": "AN ACT RELATING TO GENERAL ASSEMBLY -- AUDITOR GENERAL",
+  "identifier": "HR7511",
+  "title": "HOUSE RESOLUTION EXPRESSING CONDOLENCES ON THE PASSING OF DELORES",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires the auditor general to conduct performance audits of all state agencies."
+      "abstract": "RAVO"
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/23/2026 Introduced, referred to House State Government & Elections",
-      "date": "2026-01-23",
+      "description": "02/05/2026 House read and passed",
+      "date": "2026-02-05",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-24T12:31:46Z"
-      }
-    },
-    {
-      "description": "01/30/2026 Scheduled for hearing and/or consideration  (02/05/2026)",
-      "date": "2026-01-30",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-31T12:36:36Z"
-      }
-    },
-    {
-      "description": "02/05/2026 Committee recommended measure be held for further study",
-      "date": "2026-02-05",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-failure"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -54,43 +31,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Santucci",
+      "name": "Paplauskas",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Santucci\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Fascia",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Fascia\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nardone",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Nardone\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Quattrocchi",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Quattrocchi\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Newberry",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Newberry\"}",
+      "person_id": "~{\"name\": \"Paplauskas\"}",
       "organization_id": null
     },
     {
@@ -102,45 +47,77 @@
       "organization_id": null
     },
     {
-      "name": "Paplauskas",
+      "name": "Blazejewski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Paplauskas\"}",
+      "person_id": "~{\"name\": \"Blazejewski\"}",
       "organization_id": null
     },
     {
-      "name": "Cotter",
+      "name": "Potter",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cotter\"}",
+      "person_id": "~{\"name\": \"Potter\"}",
       "organization_id": null
     },
     {
-      "name": "Hull",
+      "name": "Fascia",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hull\"}",
+      "person_id": "~{\"name\": \"Fascia\"}",
       "organization_id": null
     },
     {
-      "name": "Felix",
+      "name": "Quattrocchi",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Felix\"}",
+      "person_id": "~{\"name\": \"Quattrocchi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solomon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Solomon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Handy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Handy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNamara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McNamara\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "7306",
+      "note": "7511",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7306.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7511.pdf",
           "media_type": "application/pdf"
         }
       ],

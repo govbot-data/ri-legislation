@@ -84,6 +84,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:36:36Z"
       }
+    },
+    {
+      "description": "02/05/2026 House passed as amended (floor amendment)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:48:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,10 +183,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7007",
+      "note": "7007\u00a0\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7007aa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -198,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:36:36Z"
+    "logs_latest_update": "2026-02-06T12:48:24Z"
   }
 }
