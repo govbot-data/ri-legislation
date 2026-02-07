@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "02/05/2026 Committee heard",
+    "date": "2026-02-05",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB2340"
+}

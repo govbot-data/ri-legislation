@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB7408",
-  "title": "AN ACT RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2026 RELATING TO ROGER WILLIAMS MEDICAL CENTER AND OUR LADY OF FATIMA HOSPITAL AND AUTHORIZING THE STATE OF RHODE ISLAND TO PROVIDE FINANCING SUPPORT TO ASSIST THE SALE OF THE HOSPITALS TO CHARTERCARE HEALTH OF RHODE ISLAND, INC.",
+  "title": "AN ACT RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2026 RELATING TO ROGER WILLIAMS MEDICAL CENTER AND OUR LADY OF FATIMA HOSPITAL",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -66,6 +66,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-06T12:48:24Z"
+      }
+    },
+    {
+      "description": "02/06/2026 Committee recommends passage of Sub A",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:36:57Z"
+      }
+    },
+    {
+      "description": "02/06/2026 Placed on House Calendar  (02/10/2026)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:36:57Z"
       }
     }
   ],
@@ -154,10 +178,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7408",
+      "note": "7408\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7408.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7408A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -181,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:48:24Z"
+    "logs_latest_update": "2026-02-07T12:36:57Z"
   }
 }

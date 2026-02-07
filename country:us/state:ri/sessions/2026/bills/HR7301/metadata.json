@@ -67,6 +67,18 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:47:46Z"
       }
+    },
+    {
+      "description": "02/06/2026 Placed on House Calendar  (02/11/2026)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:36:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:47:46Z"
+    "logs_latest_update": "2026-02-07T12:36:57Z"
   }
 }
