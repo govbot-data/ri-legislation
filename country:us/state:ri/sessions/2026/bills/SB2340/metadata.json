@@ -65,6 +65,40 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:01:54Z"
       }
+    },
+    {
+      "description": "02/10/2026 Committee recommends passage of Sub A",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "02/10/2026 Recommended for Immediate Consideration",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "02/10/2026 Senate passed Sub A",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,10 +138,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2340",
+      "note": "2340\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2340.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2340A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -131,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:01:54Z"
+    "logs_latest_update": "2026-02-11T12:58:15Z"
   }
 }

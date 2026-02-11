@@ -91,6 +91,42 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:36:57Z"
       }
+    },
+    {
+      "description": "02/10/2026 House passed Sub A as amended (floor amendment)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "02/10/2026 Senate passed Sub A as amended in concurrence",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "02/10/2026 Transmitted to Governor",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T12:58:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,10 +214,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7408\u00a0 SUB A",
+      "note": "7408\u00a0 SUB A\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7408A.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7408Aaa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -205,6 +241,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:36:57Z"
+    "logs_latest_update": "2026-02-11T12:58:15Z"
   }
 }
