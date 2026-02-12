@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "02/11/2026 Introduced, referred to House Finance",
+    "date": "2026-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7693"
+}

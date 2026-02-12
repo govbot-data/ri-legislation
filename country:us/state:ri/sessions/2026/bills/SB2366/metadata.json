@@ -28,6 +28,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:36:36Z"
       }
+    },
+    {
+      "description": "02/10/2026 Withdrawn at sponsor's request",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:56:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:36:36Z"
+    "logs_latest_update": "2026-02-12T12:56:42Z"
   }
 }
