@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishes guidelines for continued implementation and expansion of public, high-quality kindergarten education programs."
+      "abstract": "Establishes guidelines for continued implementation and expansion of public, high-quality prekindergarten education programs."
     }
   ],
   "other_titles": [],
@@ -27,6 +27,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:31:02Z"
+      }
+    },
+    {
+      "description": "02/12/2026 Withdrawn at sponsor's request",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:46:37Z"
       }
     }
   ],
@@ -142,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:31:02Z"
+    "logs_latest_update": "2026-02-13T12:46:37Z"
   }
 }
