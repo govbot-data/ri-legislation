@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "02/18/2026 Committee transferred to House Health & Human Services",
+    "date": "2026-02-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB7721"
+}
