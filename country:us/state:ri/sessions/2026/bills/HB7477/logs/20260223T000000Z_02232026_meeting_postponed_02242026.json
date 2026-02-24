@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "02/23/2026 Meeting postponed  (02/24/2026)",
+    "date": "2026-02-23",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB7477"
+}
