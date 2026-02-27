@@ -52,7 +52,7 @@
       }
     },
     {
-      "description": "02/12/2026 Placed on Senate Calendar  (02/24/2026)",
+      "description": "02/12/2026 Placed on Senate Calendar  (02/26/2026)",
       "date": "2026-02-12",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -60,7 +60,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:46:37Z"
+        "log_file_created": "2026-02-27T12:46:24Z"
+      }
+    },
+    {
+      "description": "02/26/2026 Senate read and passed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:46:24Z"
       }
     }
   ],
@@ -104,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:46:37Z"
+    "logs_latest_update": "2026-02-27T12:46:24Z"
   }
 }
