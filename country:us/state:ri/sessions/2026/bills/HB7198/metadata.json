@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Further delineates the definitions of felony, misdemeanor and petty misdemeanor."
+      "abstract": "Further delineate the definitions of felony, misdemeanor and petty misdemeanor."
     }
   ],
   "other_titles": [],
@@ -27,6 +27,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-22T12:38:39Z"
+      }
+    },
+    {
+      "description": "02/27/2026 Scheduled for hearing and/or consideration  (03/04/2026)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:35:43Z"
       }
     }
   ],
@@ -142,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:38:39Z"
+    "logs_latest_update": "2026-02-28T12:35:43Z"
   }
 }
