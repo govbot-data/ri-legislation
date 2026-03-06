@@ -106,7 +106,7 @@
       }
     },
     {
-      "description": "02/19/2026 Placed on House Calendar  (02/26/2026)",
+      "description": "02/19/2026 Placed on House Calendar  (03/05/2026)",
       "date": "2026-02-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -114,7 +114,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:46:45Z"
+        "log_file_created": "2026-03-06T12:42:25Z"
+      }
+    },
+    {
+      "description": "03/05/2026 House passed Sub A",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:42:25Z"
       }
     }
   ],
@@ -182,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:46:45Z"
+    "logs_latest_update": "2026-03-06T12:42:25Z"
   }
 }
