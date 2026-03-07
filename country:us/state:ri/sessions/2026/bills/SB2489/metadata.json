@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2489",
-  "title": "AN ACT RELATING TO DOMESTIC RELATIONS \u2013 DOMESTIC ABUSE PREVENTION",
+  "title": "AN ACT RELATING TO DOMESTIC RELATIONS -- DOMESTIC ABUSE PREVENTION",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends the definition of \u201cdomestic violence\u201d to include the coercive control of another, resulting in a pattern of behavior that in purpose or effect unreasonable interferes with another person\u2019s free will or personal liberty."
+      "abstract": "Amends the definition of \"domestic violence\" to include the coercive control of another resulting in a pattern of behavior that in purpose or effect unreasonably interferes with another person's free will or personal liberty."
     }
   ],
   "other_titles": [],
@@ -27,6 +27,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-07T12:36:57Z"
+      }
+    },
+    {
+      "description": "03/06/2026 Scheduled for hearing and/or consideration  (03/12/2026)",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:36:19Z"
       }
     }
   ],
@@ -134,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:36:57Z"
+    "logs_latest_update": "2026-03-07T12:36:19Z"
   }
 }
