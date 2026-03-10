@@ -52,13 +52,23 @@
       }
     },
     {
-      "description": "03/06/2026 Scheduled for consideration  (03/10/2026)",
+      "description": "03/06/2026 Scheduled for consideration",
       "date": "2026-03-06",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:36:19Z"
+        "log_file_created": "2026-03-10T12:50:50Z"
+      }
+    },
+    {
+      "description": "03/09/2026 Committee postponed at request of sponsor  (03/10/2026)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:50:50Z"
       }
     }
   ],
@@ -102,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:36:19Z"
+    "logs_latest_update": "2026-03-10T12:50:50Z"
   }
 }
