@@ -1,66 +1,24 @@
 {
   "legislative_session": "2026",
-  "identifier": "SR2018",
-  "title": "JOINT RESOLUTION TO APPROVE, PUBLISH AND SUBMIT TO THE ELECTORS A PROPOSITION OF AMENDMENT TO THE CONSTITUTION -- RIGHT TO AN ADEQUATE EDUCATION",
+  "identifier": "SR3052",
+  "title": "SENATE RESOLUTION CELEBRATING MARCH OF 2026 AS \u201cARTS IN THE SCHOOLS - YOUTH ART MONTH\u201d IN THE STATE OF RHODE ISLAND",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
   "subject": [],
-  "abstracts": [
-    {
-      "note": "summary",
-      "abstract": "Amends the constitution to guarantee Rhode Island residents with equal opportunity to receive an education that is adequate, equitable and meaningful and provides judicial enforcement of this provision."
-    }
-  ],
+  "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "01/09/2026 Introduced, referred to Senate Education",
-      "date": "2026-01-09",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-10T12:31:02Z"
-      }
-    },
-    {
-      "description": "02/27/2026 Scheduled for hearing and/or consideration  (03/04/2026)",
-      "date": "2026-02-27",
+      "description": "03/10/2026 Recommended for Immediate Consideration",
+      "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-28T12:35:43Z"
-      }
-    },
-    {
-      "description": "03/04/2026 Committee recommends passage",
-      "date": "2026-03-04",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-06T12:42:25Z"
-      }
-    },
-    {
-      "description": "03/05/2026 Placed on Senate Calendar  (03/10/2026)",
-      "date": "2026-03-05",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-06T12:42:25Z"
+        "log_file_created": "2026-03-11T12:48:52Z"
       }
     },
     {
@@ -78,22 +36,6 @@
   ],
   "sponsorships": [
     {
-      "name": "Acosta",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Acosta\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lawson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lawson\"}",
-      "organization_id": null
-    },
-    {
       "name": "Gallo",
       "classification": "primary",
       "entity_type": "person",
@@ -102,35 +44,51 @@
       "organization_id": null
     },
     {
-      "name": "Mack",
+      "name": "Britto",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Mack\"}",
+      "person_id": "~{\"name\": \"Britto\"}",
       "organization_id": null
     },
     {
-      "name": "Zurier",
+      "name": "Felag",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Zurier\"}",
+      "person_id": "~{\"name\": \"Felag\"}",
       "organization_id": null
     },
     {
-      "name": "Bissaillon",
+      "name": "Appollonio",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bissaillon\"}",
+      "person_id": "~{\"name\": \"Appollonio\"}",
       "organization_id": null
     },
     {
-      "name": "Valverde",
+      "name": "LaMountain",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Valverde\"}",
+      "person_id": "~{\"name\": \"LaMountain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Famiglietti",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Famiglietti\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rogers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rogers\"}",
       "organization_id": null
     },
     {
@@ -142,11 +100,11 @@
       "organization_id": null
     },
     {
-      "name": "Thompson",
+      "name": "Vargas",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thompson\"}",
+      "person_id": "~{\"name\": \"Vargas\"}",
       "organization_id": null
     },
     {
@@ -161,10 +119,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2018",
+      "note": "3052",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2018.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3052.pdf",
           "media_type": "application/pdf"
         }
       ],
