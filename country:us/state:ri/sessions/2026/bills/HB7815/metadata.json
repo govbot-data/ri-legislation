@@ -28,6 +28,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:46:24Z"
       }
+    },
+    {
+      "description": "03/13/2026 Scheduled for hearing and/or consideration  (03/19/2026)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -37,6 +47,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lima\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hopkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopkins\"}",
       "organization_id": null
     }
   ],
@@ -70,6 +88,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:46:24Z"
+    "logs_latest_update": "2026-03-14T12:39:52Z"
   }
 }

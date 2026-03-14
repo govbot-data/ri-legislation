@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB7624",
-  "title": "AN ACT RELATING TO MOTOR AND OTHER VEHICLES -- REGISTRATION OF VEHICLES",
+  "title": "AN ACT RELATING TO HEALTH AND SAFETY -- ASSISTED LIVING RESIDENCE LICENSING ACT",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Creates a special motor vehicle registration plate for The Rhode Island Hockey Hall of Fame."
+      "abstract": "Requires annual inspections of those assisted living residences which contain units licensed to treat residents with Alzheimer's disease and other dementias."
     }
   ],
   "other_titles": [],
@@ -27,6 +27,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-12T12:56:42Z"
+      }
+    },
+    {
+      "description": "03/13/2026 Scheduled for hearing and/or consideration  (03/19/2026)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:39:52Z"
       }
     }
   ],
@@ -118,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T12:56:42Z"
+    "logs_latest_update": "2026-03-14T12:39:52Z"
   }
 }
