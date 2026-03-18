@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sr3101"
+    }
+  ],
   "actions": [
     {
       "description": "03/16/2026 Placed on the Senate Consent Calendar  (03/19/2026)",
@@ -22,6 +26,18 @@
       "_processing": {
         "log_file_created": "2026-03-17T13:00:42Z"
       }
+    },
+    {
+      "description": "03/17/2026 Senate read and passed",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -31,6 +47,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ciccone",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ciccone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tikoian",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tikoian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gallo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gallo\"}",
       "organization_id": null
     }
   ],
@@ -64,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:00:42Z"
+    "logs_latest_update": "2026-03-18T12:59:44Z"
   }
 }

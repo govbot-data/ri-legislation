@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2363"
+    }
+  ],
   "actions": [
     {
       "description": "01/30/2026 Introduced, referred to Senate Finance",
@@ -27,18 +31,6 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-31T12:36:36Z"
-      }
-    },
-    {
-      "description": "03/16/2026 Withdrawn at sponsor's request",
-      "date": "2026-03-16",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "withdrawal"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-17T13:00:42Z"
       }
     }
   ],
@@ -114,6 +106,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:00:42Z"
+    "logs_latest_update": "2026-03-18T12:59:44Z"
   }
 }

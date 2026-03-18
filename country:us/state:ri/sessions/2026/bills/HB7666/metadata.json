@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7666"
+    }
+  ],
   "actions": [
     {
       "description": "02/11/2026 Introduced, referred to House Special Legislation",
@@ -37,6 +41,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-14T12:39:52Z"
+      }
+    },
+    {
+      "description": "03/17/2026 Committee recommends passage",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:59:44Z"
       }
     }
   ],
@@ -104,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:52Z"
+    "logs_latest_update": "2026-03-18T12:59:44Z"
   }
 }

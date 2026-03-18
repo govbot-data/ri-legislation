@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Authorizes East Providence to issue licenses to any business seeking to engage in the business of operating a hotel, motel, inn, boardinghouse, or catering and that business first obtains approval from chief of police, building inspector and the mayor."
+      "abstract": "Authorizes East Providence to issue licenses to any business seeking to engage in the business of operating a hotel, motel, inn, or boardinghouse and that business first obtains approval from chief of police, building inspector and the mayor."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb8038"
+    }
+  ],
   "actions": [
     {
       "description": "02/27/2026 Introduced, referred to House Municipal Government & Housing",
@@ -37,6 +41,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-14T12:39:53Z"
+      }
+    },
+    {
+      "description": "03/17/2026 Committee recommended measure be held for further study",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:59:44Z"
       }
     }
   ],
@@ -96,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:53Z"
+    "logs_latest_update": "2026-03-18T12:59:44Z"
   }
 }

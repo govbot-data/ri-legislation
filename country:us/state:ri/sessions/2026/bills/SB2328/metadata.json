@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2328"
+    }
+  ],
   "actions": [
     {
       "description": "01/23/2026 Introduced, referred to Senate Special Legislation and Veterans Affairs",
@@ -96,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:39:53Z"
       }
+    },
+    {
+      "description": "03/17/2026 Committee recommends passage in concurrence",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:59:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:53Z"
+    "logs_latest_update": "2026-03-18T12:59:44Z"
   }
 }
