@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2830"
+    }
+  ],
   "actions": [
     {
       "description": "03/04/2026 Introduced, referred to Senate Finance",
@@ -37,6 +41,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:36:19Z"
+      }
+    },
+    {
+      "description": "03/12/2026 Committee heard",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:49:18Z"
       }
     }
   ],
@@ -112,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:36:19Z"
+    "logs_latest_update": "2026-03-20T12:49:18Z"
   }
 }
