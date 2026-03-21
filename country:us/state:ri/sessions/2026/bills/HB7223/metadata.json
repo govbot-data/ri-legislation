@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7223"
+    }
+  ],
   "actions": [
     {
       "description": "01/21/2026 Introduced, referred to House Municipal Government & Housing",
@@ -130,6 +134,18 @@
       "_processing": {
         "log_file_created": "2026-02-11T12:58:15Z"
       }
+    },
+    {
+      "description": "03/20/2026 Placed on the Senate Consent Calendar  (03/24/2026)",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:37:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:58:15Z"
+    "logs_latest_update": "2026-03-21T12:37:50Z"
   }
 }
