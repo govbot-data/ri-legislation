@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7043"
+    }
+  ],
   "actions": [
     {
       "description": "01/09/2026 Introduced, referred to House Municipal Government & Housing",
@@ -140,6 +144,16 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:39:53Z"
       }
+    },
+    {
+      "description": "03/24/2026 Scheduled for consideration  (03/26/2026)",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:58:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -206,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:53Z"
+    "logs_latest_update": "2026-03-25T12:58:27Z"
   }
 }

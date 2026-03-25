@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2110"
+    }
+  ],
   "actions": [
     {
       "description": "01/16/2026 Introduced, referred to Senate Health and Human Services",
@@ -61,6 +65,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-13T12:45:47Z"
+      }
+    },
+    {
+      "description": "03/24/2026 Senate read and passed",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:58:27Z"
       }
     }
   ],
@@ -176,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:45:47Z"
+    "logs_latest_update": "2026-03-25T12:58:27Z"
   }
 }

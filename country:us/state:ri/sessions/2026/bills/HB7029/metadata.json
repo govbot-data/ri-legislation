@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits a certified foot care nurse to provide certain at-home foot care, including routine foot and nail care including nail clipping. DOH determines fair and reasonable license and renewal fees for nurses providing services."
+      "abstract": "Permits nurse who has appropriate knowledge/credentials/clinical competency to provide home services foot care,  including routine foot and nail care, hygiene and the shortening of toe and finger nails."
     }
   ],
   "other_titles": [],
@@ -56,13 +56,23 @@
       }
     },
     {
-      "description": "03/20/2026 Scheduled for consideration  (03/24/2026)",
+      "description": "03/20/2026 Scheduled for consideration",
       "date": "2026-03-20",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-21T12:37:50Z"
+        "log_file_created": "2026-03-25T12:58:27Z"
+      }
+    },
+    {
+      "description": "03/24/2026 Meeting postponed  (03/24/2026)",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:58:27Z"
       }
     },
     {
@@ -75,6 +85,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-21T12:37:50Z"
+      }
+    },
+    {
+      "description": "03/24/2026 Meeting postponed  (03/24/2026)",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:58:27Z"
       }
     }
   ],
@@ -190,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:37:50Z"
+    "logs_latest_update": "2026-03-25T12:58:27Z"
   }
 }
