@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "03/25/2026 Introduced, referred to House Judiciary",
+    "date": "2026-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB8347"
+}
