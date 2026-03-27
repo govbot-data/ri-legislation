@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits nurse who has appropriate knowledge/credentials/clinical competency to provide home services foot care,  including routine foot and nail care, hygiene and the shortening of toe and finger nails."
+      "abstract": "Permits a certified foot care nurse or a certified foot care specialist, to provide certain at-home foot care, including routine foot and nail care including nail clipping. DOH determines fair and reasonable license and renewal fees nurses providing svcs."
     }
   ],
   "other_titles": [],
@@ -95,6 +95,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-25T12:58:27Z"
+      }
+    },
+    {
+      "description": "03/26/2026 Scheduled for consideration  (03/30/2026)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:55:08Z"
+      }
+    },
+    {
+      "description": "03/26/2026 Proposed Substitute",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:55:08Z"
       }
     }
   ],
@@ -210,6 +232,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:58:27Z"
+    "logs_latest_update": "2026-03-27T12:55:08Z"
   }
 }

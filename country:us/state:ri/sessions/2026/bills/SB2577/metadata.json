@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2577"
+    }
+  ],
   "actions": [
     {
       "description": "02/13/2026 Introduced, referred to Senate Housing and Municipal Government",
@@ -49,6 +53,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-14T12:39:52Z"
+      }
+    },
+    {
+      "description": "03/26/2026 Placed on Senate Calendar  (03/31/2026)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T12:55:08Z"
       }
     }
   ],
@@ -92,6 +108,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:52Z"
+    "logs_latest_update": "2026-03-27T12:55:08Z"
   }
 }
