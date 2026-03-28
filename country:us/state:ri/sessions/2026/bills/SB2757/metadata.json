@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2757"
+    }
+  ],
   "actions": [
     {
       "description": "02/27/2026 Placed on the Senate Consent Calendar  (03/03/2026)",
@@ -45,6 +49,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:49:38Z"
+      }
+    },
+    {
+      "description": "03/27/2026 Scheduled for hearing and/or consideration  (04/02/2026)",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:42:47Z"
       }
     }
   ],
@@ -88,6 +102,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:49:38Z"
+    "logs_latest_update": "2026-03-28T12:42:47Z"
   }
 }

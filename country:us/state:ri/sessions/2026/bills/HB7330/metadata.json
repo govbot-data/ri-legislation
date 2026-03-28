@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7330"
+    }
+  ],
   "actions": [
     {
       "description": "01/28/2026 Introduced, referred to House Corporations",
@@ -47,6 +51,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "03/27/2026 Committee transferred to House State Government & Elections",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:42:47Z"
       }
     }
   ],
@@ -130,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:58:15Z"
+    "logs_latest_update": "2026-03-28T12:42:47Z"
   }
 }

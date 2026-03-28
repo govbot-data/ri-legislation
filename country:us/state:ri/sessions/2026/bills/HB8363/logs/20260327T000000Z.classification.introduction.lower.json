@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "03/27/2026 Introduced, referred to House Municipal Government & Housing",
+    "date": "2026-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB8363"
+}

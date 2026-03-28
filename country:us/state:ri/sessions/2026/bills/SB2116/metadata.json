@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2116"
+    }
+  ],
   "actions": [
     {
       "description": "01/16/2026 Introduced, referred to Senate Health and Human Services",
@@ -49,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:49:38Z"
+      }
+    },
+    {
+      "description": "03/27/2026 Scheduled for consideration  (03/31/2026)",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:42:47Z"
       }
     }
   ],
@@ -156,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:49:38Z"
+    "logs_latest_update": "2026-03-28T12:42:47Z"
   }
 }
