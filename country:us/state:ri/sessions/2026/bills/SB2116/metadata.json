@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:06:22Z"
       }
+    },
+    {
+      "description": "03/31/2026 Committee recommends passage of Sub A",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:01:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,10 +167,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2116",
+      "note": "2116\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2116.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2116A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -182,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:06:22Z"
+    "logs_latest_update": "2026-04-02T13:01:24Z"
   }
 }

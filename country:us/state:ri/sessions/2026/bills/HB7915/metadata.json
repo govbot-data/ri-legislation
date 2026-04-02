@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7915"
+    }
+  ],
   "actions": [
     {
       "description": "02/27/2026 Introduced, referred to House Environment and Natural Resources",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-28T12:35:43Z"
+      }
+    },
+    {
+      "description": "04/01/2026 Committee transferred to House State Government & Elections",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:01:24Z"
       }
     }
   ],
@@ -142,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:35:43Z"
+    "logs_latest_update": "2026-04-02T13:01:24Z"
   }
 }
