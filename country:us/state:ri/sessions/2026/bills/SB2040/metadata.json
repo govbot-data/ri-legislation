@@ -124,6 +124,30 @@
       "_processing": {
         "log_file_created": "2026-03-28T12:42:48Z"
       }
+    },
+    {
+      "description": "04/02/2026 House passed in concurrence",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:53:52Z"
+      }
+    },
+    {
+      "description": "04/02/2026 Transmitted to Governor",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:53:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T12:42:48Z"
+    "logs_latest_update": "2026-04-03T12:53:52Z"
   }
 }
