@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7309"
+    }
+  ],
   "actions": [
     {
       "description": "01/23/2026 Introduced, referred to House State Government & Elections",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-24T12:31:46Z"
+      }
+    },
+    {
+      "description": "04/03/2026 Scheduled for hearing and/or consideration  (04/07/2026)",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-04T12:43:12Z"
       }
     }
   ],
@@ -61,14 +75,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Slater\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Potter",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Potter\"}",
       "organization_id": null
     },
     {
@@ -118,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:31:46Z"
+    "logs_latest_update": "2026-04-04T12:43:12Z"
   }
 }

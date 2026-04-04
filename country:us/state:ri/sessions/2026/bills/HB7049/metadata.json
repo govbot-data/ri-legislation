@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7049"
+    }
+  ],
   "actions": [
     {
       "description": "01/09/2026 Introduced, referred to House State Government & Elections",
@@ -108,6 +112,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:36:57Z"
       }
+    },
+    {
+      "description": "04/03/2026 Scheduled for consideration  (04/07/2026)",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-04T12:43:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:36:57Z"
+    "logs_latest_update": "2026-04-04T12:43:12Z"
   }
 }
