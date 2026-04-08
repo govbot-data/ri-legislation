@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-04-04T12:43:12Z"
       }
+    },
+    {
+      "description": "04/07/2026 House read and passed",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:10:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-04T12:43:12Z"
+    "logs_latest_update": "2026-04-08T13:10:39Z"
   }
 }
