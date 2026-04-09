@@ -134,6 +134,18 @@
       "_processing": {
         "log_file_created": "2026-04-04T12:43:11Z"
       }
+    },
+    {
+      "description": "04/07/2026 Committee recommends passage of Sub A as amended in concurrence",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:15:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-04T12:43:11Z"
+    "logs_latest_update": "2026-04-09T13:15:07Z"
   }
 }
