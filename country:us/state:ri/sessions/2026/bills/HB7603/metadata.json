@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7603"
+    }
+  ],
   "actions": [
     {
       "description": "02/11/2026 Introduced, referred to House Corporations",
@@ -69,6 +73,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-04T12:43:53Z"
+      }
+    },
+    {
+      "description": "04/09/2026 Withdrawn at sponsor's request",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:59:32Z"
       }
     }
   ],
@@ -144,6 +160,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:43:53Z"
+    "logs_latest_update": "2026-04-10T12:59:32Z"
   }
 }

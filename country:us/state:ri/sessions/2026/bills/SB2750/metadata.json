@@ -62,6 +62,30 @@
       "_processing": {
         "log_file_created": "2026-04-04T12:43:12Z"
       }
+    },
+    {
+      "description": "04/08/2026 Committee recommends passage",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:59:32Z"
+      }
+    },
+    {
+      "description": "04/09/2026 Placed on Senate Calendar  (04/16/2026)",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:59:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-04T12:43:12Z"
+    "logs_latest_update": "2026-04-10T12:59:32Z"
   }
 }

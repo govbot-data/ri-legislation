@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits nurse who has appropriate knowledge/credentials/clinical competency to provide home services foot care, including routine foot and nail care, hygiene and the shortening of toe and finger nails."
+      "abstract": "Permits a nurse who has the appropriate knowledge, credentials and clinical competency, to provide home services foot care, which includes routine foot and nail care, as well as implementing a plan of care that includes hygiene and fingernails."
     }
   ],
   "other_titles": [],
@@ -142,6 +142,18 @@
       "_processing": {
         "log_file_created": "2026-04-04T12:43:12Z"
       }
+    },
+    {
+      "description": "04/09/2026 House passed Sub A",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:59:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -256,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-04T12:43:12Z"
+    "logs_latest_update": "2026-04-10T12:59:32Z"
   }
 }
