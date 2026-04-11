@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This resolution would authorize the appropriation of the sum of one hundred fifty thousand dollars ($150,000) to the Main Street Rhode Island Program."
+      "abstract": "Authorizes the appropriation of the sum of one hundred fifty thousand dollars ($150,000) to the Main Street Rhode Island Program."
     }
   ],
   "other_titles": [],
@@ -31,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-19T12:54:15Z"
+      }
+    },
+    {
+      "description": "04/10/2026 Scheduled for hearing and/or consideration  (04/14/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
       }
     }
   ],
@@ -146,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T12:54:15Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }

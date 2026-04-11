@@ -134,6 +134,18 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:15:07Z"
       }
+    },
+    {
+      "description": "04/10/2026 Placed on Senate Calendar  (04/16/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:15:07Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }

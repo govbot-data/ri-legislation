@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2155"
+    }
+  ],
   "actions": [
     {
       "description": "01/16/2026 Introduced, referred to Senate Judiciary",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-17T12:30:49Z"
+      }
+    },
+    {
+      "description": "04/10/2026 Scheduled for hearing and/or consideration  (04/14/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
       }
     }
   ],
@@ -62,6 +76,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Morgan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Raptakis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Raptakis\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -94,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:30:49Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }

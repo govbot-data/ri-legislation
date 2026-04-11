@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "04/10/2026 Introduced, referred to House Education",
+    "date": "2026-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB8428"
+}

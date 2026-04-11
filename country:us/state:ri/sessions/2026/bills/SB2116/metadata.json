@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits a certified foot care nurse to provide certain at-home foot care, including routine foot and nail care including nail clipping. DOH determines fair and reasonable license and renewal fees for nurses providing services."
+      "abstract": "Permits a nurse who has the appropriate knowledge, credentials and clinical competency, to provide home services foot care, which includes routine foot and nail care, as well as implementing a plan of care that includes hygiene and fingernails."
     }
   ],
   "other_titles": [],
@@ -124,6 +124,16 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:15:07Z"
       }
+    },
+    {
+      "description": "04/10/2026 Scheduled for consideration  (04/14/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:15:07Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }

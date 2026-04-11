@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends the certain provisions relative to school waste recycling and refuse disposal and requires reports of waste audits by educational entities and reports of program participation by vendors."
+      "abstract": "Amends certain provisions relative to school waste recycling and refuse disposal and requires reports of waste audits by educational entities and reports of program participation by vendors."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-07T13:09:01Z"
+      }
+    },
+    {
+      "description": "04/09/2026 Committee recommends passage of Sub A",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
+      }
+    },
+    {
+      "description": "04/10/2026 Placed on House Calendar  (04/14/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
       }
     }
   ],
@@ -163,10 +187,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7342",
+      "note": "7342\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7342.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7342A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:09:01Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }

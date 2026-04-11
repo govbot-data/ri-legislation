@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2382",
-  "title": "AN ACT RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS",
+  "title": "AN ACT RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides recommended air quality standards for schools. Further requires the department of education incorporate indoor air quality testing as part of the school building authority needs assessment."
+      "abstract": "Mandates all insurance contracts, plans or policies provide insurance coverage for the expense of diagnosing and treating infertility, for women between the ages of twenty-five (25) and forty-two (42) years."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2382"
+    }
+  ],
   "actions": [
     {
       "description": "01/30/2026 Introduced, referred to Senate Health and Human Services",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-31T12:36:36Z"
+      }
+    },
+    {
+      "description": "04/10/2026 Scheduled for hearing and/or consideration  (04/14/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:45:04Z"
       }
     }
   ],
@@ -134,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:36:36Z"
+    "logs_latest_update": "2026-04-11T12:45:04Z"
   }
 }
