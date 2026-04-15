@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "04/14/2026 Referred to Senate Judiciary",
+    "date": "2026-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7200"
+}

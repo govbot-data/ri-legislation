@@ -73,6 +73,18 @@
       "_processing": {
         "log_file_created": "2026-04-10T12:59:32Z"
       }
+    },
+    {
+      "description": "04/14/2026 Placed on the Senate Consent Calendar  (04/16/2026)",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:14:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +127,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:59:32Z"
+    "logs_latest_update": "2026-04-15T13:14:40Z"
   }
 }
