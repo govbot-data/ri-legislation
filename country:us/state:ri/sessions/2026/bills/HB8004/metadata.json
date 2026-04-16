@@ -56,13 +56,23 @@
       }
     },
     {
-      "description": "04/10/2026 Scheduled for consideration  (04/16/2026)",
+      "description": "04/10/2026 Scheduled for consideration",
       "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:45:04Z"
+        "log_file_created": "2026-04-16T13:20:15Z"
+      }
+    },
+    {
+      "description": "04/15/2026 Meeting postponed  (04/16/2026)",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:20:15Z"
       }
     },
     {
@@ -75,6 +85,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-11T12:45:04Z"
+      }
+    },
+    {
+      "description": "04/15/2026 Meeting postponed  (04/16/2026)",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:20:15Z"
       }
     }
   ],
@@ -118,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:45:04Z"
+    "logs_latest_update": "2026-04-16T13:20:15Z"
   }
 }
