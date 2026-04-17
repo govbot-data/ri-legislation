@@ -66,6 +66,18 @@
       "_processing": {
         "log_file_created": "2026-04-10T12:59:32Z"
       }
+    },
+    {
+      "description": "04/16/2026 Senate read and passed",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:08:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:59:32Z"
+    "logs_latest_update": "2026-04-17T13:08:04Z"
   }
 }

@@ -122,6 +122,30 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:45:04Z"
       }
+    },
+    {
+      "description": "04/15/2026 Committee recommends passage in concurrence",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:08:04Z"
+      }
+    },
+    {
+      "description": "04/16/2026 Placed on the Senate Consent Calendar  (04/28/2026)",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:08:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:45:04Z"
+    "logs_latest_update": "2026-04-17T13:08:04Z"
   }
 }

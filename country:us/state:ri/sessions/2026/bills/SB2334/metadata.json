@@ -54,6 +54,28 @@
       "_processing": {
         "log_file_created": "2026-04-15T13:14:40Z"
       }
+    },
+    {
+      "description": "04/15/2026 Committee recommended indefinite postponement",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:08:04Z"
+      }
+    },
+    {
+      "description": "04/15/2026 Committee recommended Substitute A be held for further study",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:08:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -141,10 +163,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2334",
+      "note": "2334\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2334.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2334A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -168,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:14:40Z"
+    "logs_latest_update": "2026-04-17T13:08:04Z"
   }
 }
