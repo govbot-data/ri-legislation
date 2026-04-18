@@ -176,6 +176,18 @@
       "_processing": {
         "log_file_created": "2026-04-14T13:16:01Z"
       }
+    },
+    {
+      "description": "04/16/2026 Committee recommends passage in concurrence",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-18T12:52:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-14T13:16:01Z"
+    "logs_latest_update": "2026-04-18T12:52:29Z"
   }
 }
