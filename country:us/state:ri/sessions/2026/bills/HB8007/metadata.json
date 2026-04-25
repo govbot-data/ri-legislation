@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:08:04Z"
       }
+    },
+    {
+      "description": "04/24/2026 Placed on House Calendar  (04/30/2026)",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-25T12:53:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,14 +129,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Caldwell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "McEntee",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McEntee\"}",
       "organization_id": null
     },
     {
@@ -190,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:08:04Z"
+    "logs_latest_update": "2026-04-25T12:53:37Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishes a statewide \"healthy school meals for all\u201d universal school breakfast and lunch program in Rhode Island public schools phased in over 3 years."
+      "abstract": "Establishes a statewide \"healthy school meals for all\" universal school breakfast and lunch program in Rhode Island public schools phased in over 3 years."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7793"
+    }
+  ],
   "actions": [
     {
       "description": "02/12/2026 Introduced, referred to House Finance",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-13T12:46:37Z"
+      }
+    },
+    {
+      "description": "04/24/2026 Scheduled for hearing and/or consideration  (04/28/2026)",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-25T12:53:37Z"
       }
     }
   ],
@@ -142,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:46:37Z"
+    "logs_latest_update": "2026-04-25T12:53:37Z"
   }
 }
