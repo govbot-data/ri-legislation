@@ -42,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:45:04Z"
       }
+    },
+    {
+      "description": "04/25/2026 Scheduled for hearing and/or consideration  (04/28/2026)",
+      "date": "2026-04-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-26T12:55:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +77,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Voas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alzate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alzate\"}",
       "organization_id": null
     }
   ],
@@ -100,6 +118,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:45:04Z"
+    "logs_latest_update": "2026-04-26T12:55:59Z"
   }
 }
