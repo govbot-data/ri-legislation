@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "04/28/2026 House passed in concurrence",
+    "date": "2026-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2700"
+}

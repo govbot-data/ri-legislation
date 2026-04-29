@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Exempts from taxation the property of the non-profit Mount St. Rita Health Centre located in Cumberland, RI. The exemption would be effective as of December 31, 2025."
+      "abstract": "Exempts from taxation the property of the nonprofit Mount St. Rita Health Centre located in Cumberland, RI. The exemption would be effective as of December 31, 2025."
     }
   ],
   "other_titles": [],
@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-04-25T12:53:37Z"
       }
+    },
+    {
+      "description": "04/28/2026 House passed Sub A",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:45:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:53:37Z"
+    "logs_latest_update": "2026-04-29T13:45:17Z"
   }
 }

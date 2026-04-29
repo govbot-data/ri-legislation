@@ -26,6 +26,18 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:14:12Z"
       }
+    },
+    {
+      "description": "04/28/2026 Senate read and passed",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:45:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +47,78 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McKenney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaMountain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LaMountain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valverde",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Valverde\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Famiglietti",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Famiglietti\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Appollonio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Appollonio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rogers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Felag",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felag\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mack",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zurier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zurier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quezada",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quezada\"}",
       "organization_id": null
     }
   ],
@@ -68,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:14:12Z"
+    "logs_latest_update": "2026-04-29T13:45:17Z"
   }
 }

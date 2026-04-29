@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows customers to directly take single-use plastic straws from food service establishments."
+      "abstract": "Allows customers to directly take single-use plastic straws from single straw dispensers at food service establishments."
     }
   ],
   "other_titles": [],
@@ -63,6 +63,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-25T12:53:37Z"
+      }
+    },
+    {
+      "description": "04/27/2026 Proposed Substitute",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:45:17Z"
       }
     }
   ],
@@ -146,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:53:37Z"
+    "logs_latest_update": "2026-04-29T13:45:17Z"
   }
 }
