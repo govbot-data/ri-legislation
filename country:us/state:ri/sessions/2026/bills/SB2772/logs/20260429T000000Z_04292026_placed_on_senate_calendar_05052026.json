@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "04/29/2026 Placed on Senate Calendar  (05/05/2026)",
+    "date": "2026-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2772"
+}

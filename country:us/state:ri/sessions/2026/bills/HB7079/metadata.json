@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits those individuals convicted of multiple felonies and misdemeanors to have their records expunged and provide criteria for the court to consider in determining whether the person is of good moral character."
+      "abstract": "Permits those individuals convicted of multiple felonies and misdemeanors to have their records expunged and provides criteria for the court to consider in determining whether the person is of good character."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-04-25T12:53:37Z"
       }
+    },
+    {
+      "description": "04/28/2026 Committee recommends passage of Sub A",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:44:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,10 +135,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7079",
+      "note": "7079\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7079.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7079A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:53:37Z"
+    "logs_latest_update": "2026-04-30T13:44:08Z"
   }
 }

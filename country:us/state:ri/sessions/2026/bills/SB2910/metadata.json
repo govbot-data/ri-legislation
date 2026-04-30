@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2910"
+    }
+  ],
   "actions": [
     {
       "description": "03/04/2026 Introduced, referred to Senate Housing and Municipal Government",
@@ -27,6 +31,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:49:38Z"
+      }
+    },
+    {
+      "description": "04/28/2026 Withdrawn at sponsor's request",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:44:08Z"
       }
     }
   ],
@@ -110,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:49:38Z"
+    "logs_latest_update": "2026-04-30T13:44:08Z"
   }
 }

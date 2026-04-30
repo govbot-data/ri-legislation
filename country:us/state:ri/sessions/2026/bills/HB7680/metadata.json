@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specifies that pre-k programs for three (3) \u2013 and four (4) \u2013 years olds be added to programs to increase access to voluntary, free, high-quality pre-kindergarten programs."
+      "abstract": "Specifies that pre-k programs for three (3) \u2013 and four (4) \u2013 year olds be added to programs to increase access to voluntary, free, high-quality pre-kindergarten programs."
     }
   ],
   "other_titles": [],
@@ -41,6 +41,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-25T12:53:37Z"
+      }
+    },
+    {
+      "description": "04/28/2026 Committee recommended measure be held for further study",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:44:08Z"
       }
     }
   ],
@@ -156,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:53:37Z"
+    "logs_latest_update": "2026-04-30T13:44:08Z"
   }
 }
