@@ -16,7 +16,7 @@
   ],
   "actions": [
     {
-      "description": "04/20/2026 Introduced, referred to Senate Environment and Agriculture",
+      "description": "04/20/2026 Introduced, referred to Senate Commerce",
       "date": "2026-04-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -25,7 +25,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-21T13:14:12Z"
+        "log_file_created": "2026-05-02T12:59:21Z"
+      }
+    },
+    {
+      "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/05/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
       }
     }
   ],
@@ -85,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:14:12Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

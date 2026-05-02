@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7805"
+    }
+  ],
   "actions": [
     {
       "description": "02/12/2026 Introduced, referred to House Finance",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-13T12:46:37Z"
+      }
+    },
+    {
+      "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/07/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
       }
     }
   ],
@@ -56,14 +70,6 @@
       "organization_id": null
     },
     {
-      "name": "Bennett",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Bennett\"}",
-      "organization_id": null
-    },
-    {
       "name": "Read",
       "classification": "primary",
       "entity_type": "person",
@@ -80,22 +86,6 @@
       "organization_id": null
     },
     {
-      "name": "O'Brien",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"O'Brien\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Edwards",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Edwards\"}",
-      "organization_id": null
-    },
-    {
       "name": "Ackerman",
       "classification": "primary",
       "entity_type": "person",
@@ -109,6 +99,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Corvese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shallcross Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shallcross Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phillips",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Phillips\"}",
       "organization_id": null
     }
   ],
@@ -142,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:46:37Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

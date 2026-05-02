@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7271"
+    }
+  ],
   "actions": [
     {
       "description": "01/23/2026 Introduced, referred to House Education",
@@ -47,6 +51,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-10T12:50:50Z"
+      }
+    },
+    {
+      "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/07/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
       }
     }
   ],
@@ -106,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:50:50Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

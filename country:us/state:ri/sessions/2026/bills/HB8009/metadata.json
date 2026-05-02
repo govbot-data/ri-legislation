@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Authorizes temporary periods for extended service hours under existing liquor licenses for the 2026 FIFA World Cup Tournament, subject to limitations or opt out by a municipality via council resolution."
+      "abstract": "Allows, but not require, local licensing authorities to grant temporary periods for extended indoor service hours under existing liquor licenses for certain 2026 FIFA World Cup Tournament matches."
     }
   ],
   "other_titles": [],
@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-04-30T13:44:08Z"
       }
+    },
+    {
+      "description": "05/01/2026 Placed on House Calendar  (05/05/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -154,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:44:08Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

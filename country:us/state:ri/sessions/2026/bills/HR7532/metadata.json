@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Creates a 19-member joint commission to study and provide recommendations for effective sludge management, and who would report back to the General Assembly by January 5, 2027, and would expire on March 5, 2027."
+      "abstract": "That a special joint legislative commission be created consisting of 20 members and report its findings and recommendations to the General Assembly no later than January 5, 2027, and said commission expires on March 5, 2027."
     }
   ],
   "other_titles": [],
@@ -112,6 +112,18 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:08:04Z"
       }
+    },
+    {
+      "description": "05/01/2026 Referred to Senate Commerce",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:08:04Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

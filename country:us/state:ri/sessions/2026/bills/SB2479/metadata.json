@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2479",
-  "title": "AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- LAW ENFORCEMENT OFFICERS\u2019 DUE PROCESS, ACCOUNTABILITY, AND TRANSPARENCY ACT -- ICE OUT ACT",
+  "title": "AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- LAW ENFORCEMENT OFFICERS' DUE PROCESS, ACCOUNTABILITY AND TRANSPARENCY ACT -- ICE OUT ACT",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibits law enforcement agencies from hiring individuals who was hired as a sworn officer of the US Immigration and Customs enforcement Agency on or after January 20, 2025 and would apply prospectively to an individual hired on or after October 1, 2026."
+      "abstract": "Prohibits law enforcement agencies from hiring individuals who were hired as a sworn officer of the US Immigration and Customs enforcement Agency on or after January 20, 2025, and applies prospectively to an individual hired on or after October 1, 2026."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2479"
+    }
+  ],
   "actions": [
     {
       "description": "02/06/2026 Introduced, referred to Senate Judiciary",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-07T12:36:57Z"
+      }
+    },
+    {
+      "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/05/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
       }
     }
   ],
@@ -142,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:36:57Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

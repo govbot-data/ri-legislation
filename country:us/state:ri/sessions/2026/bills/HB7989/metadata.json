@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Exempts certain vehicles that are not manufactured with the proper front registration plate bracket from the requirement that motor vehicles display a front facing registration plate."
+      "abstract": "Exempts certain vehicles that are not manufactured with the proper front plate registration bracket from the requirement that motor vehicles display a front facing registration plate."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-04-25T12:53:37Z"
       }
+    },
+    {
+      "description": "04/30/2026 Committee recommends passage of Sub A",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
+      }
+    },
+    {
+      "description": "05/01/2026 Placed on House Calendar  (05/05/2026)",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:59:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,10 +123,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7989",
+      "note": "7989\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7989.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7989A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -126,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:53:37Z"
+    "logs_latest_update": "2026-05-02T12:59:21Z"
   }
 }

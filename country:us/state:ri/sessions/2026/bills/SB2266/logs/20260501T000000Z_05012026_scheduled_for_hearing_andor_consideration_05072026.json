@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/07/2026)",
+    "date": "2026-05-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB2266"
+}
