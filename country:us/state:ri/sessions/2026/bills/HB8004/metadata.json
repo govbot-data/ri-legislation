@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB8004",
-  "title": "AN ACT RELATING TO TOWNS AND CITIES -- RHODE ISLAND COMPREHENSIVE PLANNING AND LAND USE ACT",
+  "title": "AN ACT RELATING TO COURTS AND CIVIL PROCEDURE--COURTS -- SUPERIOR COURT",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides technical amendments relating to comprehensive planning and land use, subdivision of land, zoning ordinances and moderate-income housing."
+      "abstract": "Provides technical amendments relating to comprehensive planning and land use, subdivision of land, zoning ordinances and low- and moderate-income housing."
     }
   ],
   "other_titles": [],
@@ -118,6 +118,18 @@
       "_processing": {
         "log_file_created": "2026-05-02T12:59:21Z"
       }
+    },
+    {
+      "description": "05/05/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T13:53:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,10 +145,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8004",
+      "note": "8004\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8004.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8004A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -160,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-02T12:59:21Z"
+    "logs_latest_update": "2026-05-07T13:53:59Z"
   }
 }

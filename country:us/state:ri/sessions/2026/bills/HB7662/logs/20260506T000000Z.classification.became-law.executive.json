@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "05/06/2026 Effective without Governor's signature",
+    "date": "2026-05-06",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7662"
+}

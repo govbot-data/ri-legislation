@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2011",
-  "title": "AN ACT RELATING TO INSURANCE-CASUALTY INSURANCE GENERALLY -- LIMITATIONS ON POLICY CANCELLATIONS AND RENEWALS",
+  "title": "AN ACT RELATING TO INSURANCE-CASUALTY INSURANCE GENERALLY-LIMITATIONS ON POLICY CANCELLATIONS AND RENEWALS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires homeowner\u2019s insurance providers to provide two months\u2019 notice before increasing any policy renewal premium more than 20% and a violation constitutes a deceptive trade practice punishable by a fine not to exceed $1,000."
+      "abstract": "Amends the regulations on the cancellation and renewal of liability and property damage insurance for automobiles, homeowners insurance, residential fire insurance and components thereof."
     }
   ],
   "other_titles": [],
@@ -119,6 +119,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-06T13:55:41Z"
+      }
+    },
+    {
+      "description": "05/05/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T13:53:59Z"
+      }
+    },
+    {
+      "description": "05/06/2026 Placed on Senate Calendar  (05/12/2026)",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T13:53:59Z"
       }
     }
   ],
@@ -234,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T13:55:41Z"
+    "logs_latest_update": "2026-05-07T13:53:59Z"
   }
 }

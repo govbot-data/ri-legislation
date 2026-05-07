@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-05-06T13:55:41Z"
       }
+    },
+    {
+      "description": "05/06/2026 Referred to House Corporations",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T13:53:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T13:55:41Z"
+    "logs_latest_update": "2026-05-07T13:53:59Z"
   }
 }
