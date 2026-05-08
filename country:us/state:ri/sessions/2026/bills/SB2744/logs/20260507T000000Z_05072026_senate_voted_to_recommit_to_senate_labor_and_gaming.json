@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "05/07/2026 Senate voted to recommit to Senate Labor and Gaming",
+    "date": "2026-05-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB2744"
+}
