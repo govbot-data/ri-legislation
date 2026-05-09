@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2924"
+    }
+  ],
   "actions": [
     {
       "description": "03/04/2026 Introduced, referred to Senate Labor and Gaming",
@@ -27,6 +31,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:49:38Z"
+      }
+    },
+    {
+      "description": "05/08/2026 Scheduled for hearing and/or consideration",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:05:28Z"
+      }
+    },
+    {
+      "description": "05/08/2026 Committee postponed at request of sponsor  (05/13/2026)",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:05:28Z"
       }
     }
   ],
@@ -86,6 +110,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:49:38Z"
+    "logs_latest_update": "2026-05-09T13:05:28Z"
   }
 }

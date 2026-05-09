@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2913"
+    }
+  ],
   "actions": [
     {
       "description": "03/04/2026 Introduced, referred to Senate Housing and Municipal Government",
@@ -49,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-14T12:39:53Z"
+      }
+    },
+    {
+      "description": "05/08/2026 Scheduled for consideration  (05/12/2026)",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:05:28Z"
       }
     }
   ],
@@ -132,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:39:53Z"
+    "logs_latest_update": "2026-05-09T13:05:28Z"
   }
 }

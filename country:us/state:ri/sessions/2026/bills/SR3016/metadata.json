@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This resolution would authorize the appropriation of the sum of $800,000 to WaterFire Providence."
+      "abstract": "Authorizes the appropriation of the sum of $800,000 to WaterFire Providence."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sr3016"
+    }
+  ],
   "actions": [
     {
       "description": "03/05/2026 Introduced, referred to Senate Finance",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:36:19Z"
+      }
+    },
+    {
+      "description": "05/08/2026 Scheduled for hearing and/or consideration  (05/12/2026)",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:05:28Z"
       }
     }
   ],
@@ -102,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:36:19Z"
+    "logs_latest_update": "2026-05-09T13:05:28Z"
   }
 }

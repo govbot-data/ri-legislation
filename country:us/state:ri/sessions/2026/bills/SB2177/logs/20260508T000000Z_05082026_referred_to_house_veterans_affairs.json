@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "05/08/2026 Referred to House Veterans Affairs",
+    "date": "2026-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2177"
+}

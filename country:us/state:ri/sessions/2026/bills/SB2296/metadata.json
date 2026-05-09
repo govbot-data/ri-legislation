@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2296"
+    }
+  ],
   "actions": [
     {
       "description": "01/23/2026 Introduced, referred to Senate Judiciary",
@@ -27,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-24T12:31:46Z"
+      }
+    },
+    {
+      "description": "05/08/2026 Scheduled for hearing and/or consideration  (05/12/2026)",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:05:28Z"
       }
     }
   ],
@@ -86,6 +100,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Dimitri\"}",
       "organization_id": null
+    },
+    {
+      "name": "Famiglietti",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Famiglietti\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Appollonio",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Appollonio\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -118,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:31:46Z"
+    "logs_latest_update": "2026-05-09T13:05:28Z"
   }
 }
