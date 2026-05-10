@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "This resolution would authorize the appropriation of the sum of $500,000 to RIPIN."
+      "abstract": "Authorizes the appropriation of the sum of $500,000 to RIPIN."
     }
   ],
   "other_titles": [],
@@ -31,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-21T12:37:50Z"
+      }
+    },
+    {
+      "description": "05/09/2026 Scheduled for hearing and/or consideration  (05/14/2026)",
+      "date": "2026-05-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-10T13:06:52Z"
       }
     }
   ],
@@ -130,6 +140,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:37:50Z"
+    "logs_latest_update": "2026-05-10T13:06:52Z"
   }
 }
