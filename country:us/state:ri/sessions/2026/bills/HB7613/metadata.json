@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides for penalties for tax preparers that purposefully mislead their clients or act as ghost preparers of tax returns."
+      "abstract": "Provides penalties for tax preparers that purposefully mislead their clients or act as ghost preparers of tax returns and requires the tax administrator publish a list of tax preparers who have had their privileges to prepare returns revoked or suspended."
     }
   ],
   "other_titles": [],
@@ -150,6 +150,18 @@
       "_processing": {
         "log_file_created": "2026-05-06T13:55:41Z"
       }
+    },
+    {
+      "description": "05/10/2026 Placed on House Calendar  (05/14/2026)",
+      "date": "2026-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-11T14:37:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T13:55:41Z"
+    "logs_latest_update": "2026-05-11T14:37:52Z"
   }
 }
