@@ -34,23 +34,13 @@
       }
     },
     {
-      "description": "05/08/2026 Scheduled for hearing and/or consideration",
-      "date": "2026-05-08",
+      "description": "05/11/2026 Scheduled for hearing and/or consideration  (05/13/2026)",
+      "date": "2026-05-11",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-09T13:05:28Z"
-      }
-    },
-    {
-      "description": "05/08/2026 Committee postponed at request of sponsor  (05/13/2026)",
-      "date": "2026-05-08",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-09T13:05:28Z"
+        "log_file_created": "2026-05-12T14:09:04Z"
       }
     }
   ],
@@ -110,6 +100,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:05:28Z"
+    "logs_latest_update": "2026-05-12T14:09:04Z"
   }
 }

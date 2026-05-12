@@ -64,6 +64,18 @@
       "_processing": {
         "log_file_created": "2026-05-09T13:05:28Z"
       }
+    },
+    {
+      "description": "05/11/2026 Proposed Substitute",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:09:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -130,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:05:28Z"
+    "logs_latest_update": "2026-05-12T14:09:04Z"
   }
 }
