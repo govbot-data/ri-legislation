@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "05/12/2026 House voted to recommit to House Corporations",
+    "date": "2026-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB7477"
+}

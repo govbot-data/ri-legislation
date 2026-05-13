@@ -74,7 +74,7 @@
       }
     },
     {
-      "description": "05/01/2026 Placed on House Calendar  (05/07/2026)",
+      "description": "05/01/2026 Placed on House Calendar  (05/12/2026)",
       "date": "2026-05-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -82,7 +82,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-02T12:59:21Z"
+        "log_file_created": "2026-05-13T14:21:07Z"
+      }
+    },
+    {
+      "description": "05/12/2026 House passed in concurrence",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:21:07Z"
+      }
+    },
+    {
+      "description": "05/12/2026 Transmitted to Governor",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:21:07Z"
       }
     }
   ],
@@ -134,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-02T12:59:21Z"
+    "logs_latest_update": "2026-05-13T14:21:07Z"
   }
 }
