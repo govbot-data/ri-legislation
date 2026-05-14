@@ -64,6 +64,38 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:09:04Z"
       }
+    },
+    {
+      "description": "05/12/2026 Committee recommended indefinite postponement",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:57:38Z"
+      }
+    },
+    {
+      "description": "05/12/2026 Substitute A",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:57:38Z"
+      }
+    },
+    {
+      "description": "05/12/2026 Committee heard",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:57:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,10 +183,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2764",
+      "note": "2764\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2764.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2764A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -178,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:09:04Z"
+    "logs_latest_update": "2026-05-14T13:57:38Z"
   }
 }

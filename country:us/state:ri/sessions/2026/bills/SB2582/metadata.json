@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows the town of Tiverton, with an aggregate of 500 or more units proposed in a comprehensive permit project, to enact a short-term emergency moratorium until the permit laws are amended."
+      "abstract": "Authorizes the town of Tiverton to require that fifty percent (50%) of new construction be affordable housing units if there is less than ten percent (10%) of affordable housing in the town."
     }
   ],
   "other_titles": [],
@@ -41,6 +41,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-09T13:05:28Z"
+      }
+    },
+    {
+      "description": "05/12/2026 Committee recommended measure be held for further study",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:57:38Z"
       }
     }
   ],
@@ -92,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:05:28Z"
+    "logs_latest_update": "2026-05-14T13:57:38Z"
   }
 }
