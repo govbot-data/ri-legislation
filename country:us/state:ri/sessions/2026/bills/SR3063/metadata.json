@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-14T13:57:38Z"
       }
+    },
+    {
+      "description": "05/14/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,10 +135,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3063",
+      "note": "3063\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3063.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3063A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-15T13:54:40Z"
   }
 }

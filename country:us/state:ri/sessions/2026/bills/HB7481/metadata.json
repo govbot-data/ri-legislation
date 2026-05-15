@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:09:04Z"
       }
+    },
+    {
+      "description": "05/14/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,10 +175,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7481",
+      "note": "7481\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7481.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7481A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:09:04Z"
+    "logs_latest_update": "2026-05-15T13:54:40Z"
   }
 }

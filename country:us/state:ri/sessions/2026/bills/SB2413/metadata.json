@@ -64,6 +64,18 @@
       "_processing": {
         "log_file_created": "2026-05-09T13:05:28Z"
       }
+    },
+    {
+      "description": "05/14/2026 Committee recommends passage",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:54:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:05:28Z"
+    "logs_latest_update": "2026-05-15T13:54:40Z"
   }
 }
