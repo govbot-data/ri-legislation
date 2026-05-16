@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-05-14T13:57:38Z"
       }
+    },
+    {
+      "description": "05/14/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:11:30Z"
+      }
+    },
+    {
+      "description": "05/15/2026 Placed on Senate Calendar  (05/21/2026)",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:11:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,10 +171,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2197",
+      "note": "2197\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2197.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2197A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -174,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-16T13:11:30Z"
   }
 }

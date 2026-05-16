@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7199"
+    }
+  ],
   "actions": [
     {
       "description": "01/21/2026 Introduced, referred to House Judiciary",
@@ -47,6 +51,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-17T13:00:42Z"
+      }
+    },
+    {
+      "description": "05/15/2026 Scheduled for hearing and/or consideration  (05/19/2026)",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:11:30Z"
       }
     }
   ],
@@ -162,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:00:42Z"
+    "logs_latest_update": "2026-05-16T13:11:30Z"
   }
 }
