@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires radon testing within one year of any residential real estate transaction and the installation of a radon mitigation system if unsafe radon levels are present, at the seller's expense."
+      "abstract": "Provides protocols for radon inspection relative to real estate transactions and provides time frames and conditions for testing and mitigation."
     }
   ],
   "other_titles": [],
@@ -99,6 +99,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-14T13:57:38Z"
+      }
+    },
+    {
+      "description": "05/19/2026 Senate passed Sub A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:50:01Z"
       }
     }
   ],
@@ -214,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-20T14:50:01Z"
   }
 }

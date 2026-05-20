@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Exempts from taxation the real and tangible personal property of Blithewold, Inc., located at 101 Ferry Road, Bristol, Rhode Island."
+      "abstract": "Exempts from taxation the real and tangible personal property of Blithewold, Inc., located at 101 Ferry Road, Bristol, Rhode Island. Effective retroactively to 12/31/2025."
     }
   ],
   "other_titles": [],
@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-05-14T13:57:38Z"
       }
+    },
+    {
+      "description": "05/19/2026 Senate passed Sub A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:50:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-20T14:50:01Z"
   }
 }

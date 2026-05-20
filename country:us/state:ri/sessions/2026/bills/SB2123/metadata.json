@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Exempts from taxation the real and tangible personal property of Blackstone Valley Advocacy Center located in the city of Pawtucket."
+      "abstract": "Exempts from taxation the real and tangible personal property of Blackstone Valley Advocacy Center located in the city of Pawtucket. Effective retroactively to December 31, 2025 and affects next levy issued by the city or town where property is located."
     }
   ],
   "other_titles": [],
@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-05-14T13:57:38Z"
       }
+    },
+    {
+      "description": "05/19/2026 Senate passed Sub A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:50:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-20T14:50:01Z"
   }
 }
