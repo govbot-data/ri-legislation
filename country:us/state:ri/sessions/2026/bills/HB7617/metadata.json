@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides that where the administration, use, or maintenance of epinephrine within schools and on buses is authorized, this use would include epinephrine auto-injectors and epinephrine nasal sprays"
+      "abstract": "Provides that where the administration, use, or maintenance of epinephrine within schools and on buses is authorized, this use includes epinephrine delivery devices approved by the United States Food & Drug Administration and epinephrine nasal sprays."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-16T13:11:30Z"
       }
+    },
+    {
+      "description": "05/19/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-21T14:54:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,10 +151,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7617",
+      "note": "7617\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7617.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7617A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -166,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:11:30Z"
+    "logs_latest_update": "2026-05-21T14:54:02Z"
   }
 }

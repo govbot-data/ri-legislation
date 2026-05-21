@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB3058",
-  "title": "AN ACT RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND HOSPITALS -- 988 CALL CENTER AND BH LINK OPERATIONS ACT",
+  "title": "AN ACT RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND HOSPITALS -- 988 CALL CENTER AND CRISIS OUTREACH AND STABILIZATION SERVICES CENTER OPERATIONS ACT",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-05-19T14:49:06Z"
       }
+    },
+    {
+      "description": "05/19/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-21T14:54:02Z"
+      }
+    },
+    {
+      "description": "05/20/2026 Placed on Senate Calendar  (05/26/2026)",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-21T14:54:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,10 +147,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3058",
+      "note": "3058\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3058.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3058A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-19T14:49:06Z"
+    "logs_latest_update": "2026-05-21T14:54:02Z"
   }
 }
