@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-05-16T13:11:30Z"
       }
+    },
+    {
+      "description": "05/21/2026 House passed as amended",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:27:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -175,10 +187,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7210",
+      "note": "7210\u00a0\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7210.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7210aa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -202,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:11:30Z"
+    "logs_latest_update": "2026-05-22T14:27:56Z"
   }
 }

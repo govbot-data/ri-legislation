@@ -90,7 +90,7 @@
       }
     },
     {
-      "description": "05/13/2026 Placed on Senate Calendar  (05/19/2026)",
+      "description": "05/13/2026 Placed on Senate Calendar  (05/21/2026)",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -98,7 +98,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T13:57:38Z"
+        "log_file_created": "2026-05-22T14:27:56Z"
+      }
+    },
+    {
+      "description": "05/21/2026 Senate passed Sub A as amended (floor amendment)",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:27:56Z"
       }
     }
   ],
@@ -123,10 +135,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2800\u00a0 SUB A",
+      "note": "2800\u00a0 SUB A\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2800A.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2800Aaa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T13:57:38Z"
+    "logs_latest_update": "2026-05-22T14:27:56Z"
   }
 }

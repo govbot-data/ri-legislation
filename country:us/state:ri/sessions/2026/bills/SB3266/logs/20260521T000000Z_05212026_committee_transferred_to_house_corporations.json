@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "05/21/2026 Committee transferred to House Corporations",
+    "date": "2026-05-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB3266"
+}
