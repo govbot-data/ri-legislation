@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7066"
+    }
+  ],
   "actions": [
     {
       "description": "01/14/2026 Introduced, referred to House Corporations",
@@ -50,6 +54,28 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:47:46Z"
       }
+    },
+    {
+      "description": "05/22/2026 Scheduled for consideration  (05/26/2026)",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Proposed Substitute",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +110,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"O'Brien\"}",
       "organization_id": null
+    },
+    {
+      "name": "Boylan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boylan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -116,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:47:46Z"
+    "logs_latest_update": "2026-05-23T13:14:00Z"
   }
 }

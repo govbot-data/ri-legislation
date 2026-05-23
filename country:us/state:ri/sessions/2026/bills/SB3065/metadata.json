@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires that reimbursement rates for certified mobile response and stabilization services be equal to or greater than the prevailing integrated state Medicaid rate for mobile response and stabilizations services"
+      "abstract": "Requires that reimbursement rates for certified mobile response and stabilization services be equal to or greater than the prevailing integrated state Medicaid rate for mobile response and stabilizations services."
     }
   ],
   "other_titles": [],
@@ -95,6 +95,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-21T14:54:02Z"
+      }
+    },
+    {
+      "description": "05/21/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Placed on Senate Calendar  (05/27/2026)",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
       }
     }
   ],
@@ -183,10 +207,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3065",
+      "note": "3065\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3065.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3065A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -210,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-21T14:54:02Z"
+    "logs_latest_update": "2026-05-23T13:14:00Z"
   }
 }

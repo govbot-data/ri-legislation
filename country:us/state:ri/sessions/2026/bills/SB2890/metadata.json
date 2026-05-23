@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2890",
-  "title": "AN ACT RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE",
+  "title": "AN ACT RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Mandates health insurance coverage for medically necessary hormonal and non-hormonal therapy to treat menopausal symptoms if the therapy is recommended by a qualified health care provider licensed in RI and it has been proven safe and effective."
+      "abstract": "Mandates health insurance coverage for medically necessary hormonal/non-hormonal therapy to treat symptoms of peri-menopause/menopause, if therapy is recommended by qualified healthcare provider licensed in RI and has proven safe and effective."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-21T14:54:02Z"
+      }
+    },
+    {
+      "description": "05/21/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Placed on Senate Calendar  (05/28/2026)",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
       }
     }
   ],
@@ -147,10 +171,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2890",
+      "note": "2890\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2890.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2890A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -174,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-21T14:54:02Z"
+    "logs_latest_update": "2026-05-23T13:14:00Z"
   }
 }

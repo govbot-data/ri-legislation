@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7191"
+    }
+  ],
   "actions": [
     {
       "description": "01/21/2026 Introduced, referred to House Health & Human Services",
@@ -49,6 +53,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-11T12:58:15Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Scheduled for consideration  (05/28/2026)",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Proposed Substitute",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-23T13:14:00Z"
       }
     }
   ],
@@ -148,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:58:15Z"
+    "logs_latest_update": "2026-05-23T13:14:00Z"
   }
 }
