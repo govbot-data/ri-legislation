@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB8582",
+  "title": "AN ACT RELATING TO INSURANCE -- PHARMACY FREEDOM OF CHOICE--FAIR COMPETITION AND PRACTICES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Imposes certain duties, transparency, and accountability from pharmacy benefits managers and pharmacy benefits management services."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb8582"
+    }
+  ],
+  "actions": [
+    {
+      "description": "05/26/2026 Introduced, referred to House Health & Human Services",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Scheduled for hearing and/or consideration  (05/28/2026)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Caldwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Caldwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "8582",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8582.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-05-28T15:38:31Z"
+  }
+}

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Incorporates broadband, internet, and wireless means into the crime of injuring electric and communication lines and authorizes municipalities to grant zoning relief for the protection of critical infrastructure."
+      "abstract": "Incorporates cable, broadband, Internet, and wireless means into the crime of injuring electric and communication lines and authorizes municipalities to grant zoning relief for the protection of critical infrastructure."
     }
   ],
   "other_titles": [],
@@ -86,6 +86,30 @@
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
       }
+    },
+    {
+      "description": "05/26/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    },
+    {
+      "description": "05/27/2026 Placed on Senate Calendar  (06/03/2026)",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

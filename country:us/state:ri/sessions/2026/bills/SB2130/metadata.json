@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2130"
+    }
+  ],
   "actions": [
     {
       "description": "01/16/2026 Introduced, referred to Senate Judiciary",
@@ -69,6 +73,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-28T12:35:43Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Scheduled for consideration  (05/28/2026)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
       }
     }
   ],
@@ -144,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:35:43Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

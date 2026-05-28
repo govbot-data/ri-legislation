@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Expands the benefit definitions to include a grandchild and care recipient and increases benefits period to 10 weeks for 2027 and 12 weeks for 2028 and provides a TDI/TCI opt-in option for self-employed workers."
+      "abstract": "Expands the benefit definitions of temporary care giver leave to include a grandchild and care recipient and would increase a leave benefits period to 10 weeks for 2027 and twelve 12 weeks for 2028."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Placed on Senate Calendar  (05/28/2026)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
       }
     }
   ],
@@ -163,10 +187,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2737",
+      "note": "2737\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2737.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2737A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Increases penalties for a second or subsequent offense with a fine of not less than $500 or no more than $2,500 and up to 2 years imprisonment, for violating the law on the care of dogs."
+      "abstract": "Increases penalties for a second or subsequent offense with a fine of not less than $250 or no more than $1,000 and up to 11 months imprisonment for violating the law on the care of dogs."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    },
+    {
+      "description": "05/27/2026 Placed on Senate Calendar  (06/03/2026)",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
       }
     }
   ],
@@ -155,10 +179,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2397",
+      "note": "2397\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2397.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2397A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -182,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

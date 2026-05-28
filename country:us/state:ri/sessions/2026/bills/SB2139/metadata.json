@@ -34,13 +34,23 @@
       }
     },
     {
-      "description": "05/19/2026 Committee transferred to Senate Education",
+      "description": "05/19/2026 Committee transferred to Senate Finance",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-20T14:50:01Z"
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
+    },
+    {
+      "description": "05/26/2026 Scheduled for hearing and/or consideration  (05/28/2026)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
       }
     }
   ],
@@ -156,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:50:01Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

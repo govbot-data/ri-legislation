@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HR7344",
-  "title": "HOUSE RESOLUTION CREATING A PERMANENT COMMISSION ON CLIMATE CHANGE IMPACTS AND SOLUTIONS",
+  "title": "HOUSE RESOLUTION EXTENDING THE REPORTING AND EXPIRATION DATES OF THE LEGISLATIVE STUDY COMMISSION ON CLIMATE CHANGE IMPACTS AND SOLUTIONS",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
       }
+    },
+    {
+      "description": "05/27/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,10 +119,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7344",
+      "note": "7344\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7344.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7344A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -134,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }

@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
       }
+    },
+    {
+      "description": "05/27/2026 Senate passed as amended (floor amendment)",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-28T15:38:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,10 +155,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2108",
+      "note": "2108\u00a0\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2108.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2108aa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -170,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-28T15:38:31Z"
   }
 }
