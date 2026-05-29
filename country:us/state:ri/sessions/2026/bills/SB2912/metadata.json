@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends the definition of abandoned property by imposing the requirement that the building owner be notified of the violation and has failed to address such violations in the timeframes set forth in the notice of violation or court order."
+      "abstract": "Amends several definitions to the general law chapter relating to abandoned property, adds a definition for \"eligible nonprofit corporation\", provides criteria for when properties are considered abandoned or a public nuisance."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:38:31Z"
       }
+    },
+    {
+      "description": "05/28/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:52:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,10 +111,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2912",
+      "note": "2912\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2912.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2912A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -126,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:38:31Z"
+    "logs_latest_update": "2026-05-29T14:52:37Z"
   }
 }

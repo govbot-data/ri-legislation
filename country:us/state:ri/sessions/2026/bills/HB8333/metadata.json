@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Empowers the division of motor vehicles to make available special motor vehicle registration plates for the Dominican independence heritage award committee of Rhode Island."
+      "abstract": "Empowers the division of motor vehicles to make available special motor vehicle registration plates for the not-for-profit entity, Dominican independence and heritage award committee of RI."
     }
   ],
   "other_titles": [],
@@ -95,6 +95,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/28/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:52:37Z"
       }
     }
   ],
@@ -183,10 +195,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8333",
+      "note": "8333\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8333.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8333A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -210,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-29T14:52:37Z"
   }
 }

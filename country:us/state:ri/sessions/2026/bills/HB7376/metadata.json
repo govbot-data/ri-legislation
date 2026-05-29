@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows for a special RI license plate to raise awareness for colon cancer. The plate would be designed by the partnership to reduce cancer in RI. The fees for the plate to be divided equally between the general fund and the partnership not-for-profit."
+      "abstract": "Allows for a special RI license plate to raise awareness for colon cancer and would be designed by the partnership to reduce cancer in RI and honoring the late Maryellen Goodwin."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
+      }
+    },
+    {
+      "description": "05/28/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:52:37Z"
       }
     }
   ],
@@ -163,10 +175,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7376",
+      "note": "7376\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7376.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7376A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-05-29T14:52:37Z"
   }
 }

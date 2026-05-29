@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB3166",
-  "title": "AN ACT RELATING TO MOTOR AND OTHER VEHICLES -- REGISTRATION OF VEHICLES",
+  "title": "AN ACT RELATING TO HIGHWAYS -- RHODE ISLAND TURNPIKE AND BRIDGE AUTHORITY",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Car rental company not subject to registration penalties resulting from out-of-state toll violations from operators using their rental vehicles but are responsible for any outstanding toll amounts due."
+      "abstract": "Provides that motor vehicle rental companies be entitled to establish non-liability for toll violations, administrative fees, registration penalties, and fines by providing a rental or lease agreement as prima facie evidence against a lessee."
     }
   ],
   "other_titles": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:38:31Z"
       }
+    },
+    {
+      "description": "05/28/2026 Committee recommends passage of Sub A",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:52:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,10 +163,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3166",
+      "note": "3166\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3166.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3166A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -178,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:38:31Z"
+    "logs_latest_update": "2026-05-29T14:52:37Z"
   }
 }
