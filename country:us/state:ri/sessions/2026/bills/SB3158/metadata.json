@@ -54,6 +54,16 @@
       "_processing": {
         "log_file_created": "2026-05-09T13:05:28Z"
       }
+    },
+    {
+      "description": "05/29/2026 Scheduled for consideration  (06/02/2026)",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:05:28Z"
+    "logs_latest_update": "2026-05-30T13:17:44Z"
   }
 }

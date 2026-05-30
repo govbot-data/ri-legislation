@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "05/29/2026 Committee transferred to Senate Finance",
+    "date": "2026-05-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB7656"
+}

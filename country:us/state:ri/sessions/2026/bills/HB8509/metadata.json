@@ -78,6 +78,18 @@
       "_processing": {
         "log_file_created": "2026-05-20T14:50:01Z"
       }
+    },
+    {
+      "description": "05/29/2026 Referred to Senate Judiciary",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:50:01Z"
+    "logs_latest_update": "2026-05-30T13:17:44Z"
   }
 }

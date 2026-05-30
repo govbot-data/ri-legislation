@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows on and after September 1, 2026, an owner of motor vehicle(s) to transfer ownership and registration of said vehicle on their death, by a certificate of title designation and requires DMV to amend title forms, to include transfer-on-death language."
+      "abstract": "Allows, on and after September 1, 2026, an owner of motor vehicle(s) to transfer ownership and registration of said vehicle on their death, by a certificate of title designation and requires DMV to amend title forms, to include transfer-on-death language."
     }
   ],
   "other_titles": [],
@@ -53,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-27T12:55:08Z"
+      }
+    },
+    {
+      "description": "05/29/2026 Scheduled for consideration  (06/02/2026)",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
       }
     }
   ],
@@ -104,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:55:08Z"
+    "logs_latest_update": "2026-05-30T13:17:44Z"
   }
 }

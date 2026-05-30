@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends the state building code and would require that the state adopt the 2024 International Residential Code and prohibit the state building committee from adopting amendments for one to four residential dwelling units until 2030."
+      "abstract": "Adopts 2024 International Residential Code for 1 to 3 family dwelling units by 1/1/27/establishes moratorium on changes to building codes applicable to dwelling units until 1/1/31 unless approved by legislature with procedures for amending building code."
     }
   ],
   "other_titles": [],
@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-05-29T14:52:37Z"
       }
+    },
+    {
+      "description": "05/29/2026 Placed on Senate Calendar  (06/03/2026)",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-29T14:52:37Z"
+    "logs_latest_update": "2026-05-30T13:17:44Z"
   }
 }

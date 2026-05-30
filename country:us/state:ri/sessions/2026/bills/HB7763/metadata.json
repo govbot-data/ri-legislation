@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb7763"
+    }
+  ],
   "actions": [
     {
       "description": "02/12/2026 Introduced, referred to House Judiciary",
@@ -49,6 +53,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:46:24Z"
+      }
+    },
+    {
+      "description": "05/29/2026 Scheduled for consideration  (06/03/2026)",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
+      }
+    },
+    {
+      "description": "05/29/2026 Proposed Substitute",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:17:44Z"
       }
     }
   ],
@@ -116,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:46:24Z"
+    "logs_latest_update": "2026-05-30T13:17:44Z"
   }
 }
