@@ -98,13 +98,23 @@
       }
     },
     {
-      "description": "05/30/2026 Scheduled for consideration  (06/02/2026)",
+      "description": "05/30/2026 Scheduled for consideration",
       "date": "2026-05-30",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-31T13:26:05Z"
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Meeting postponed  (06/02/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
       }
     },
     {
@@ -120,6 +130,16 @@
       }
     },
     {
+      "description": "06/02/2026 Meeting postponed  (06/02/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
       "description": "06/01/2026 Scheduled for consideration  (06/03/2026)",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -127,6 +147,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Proposed Substitute",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
       }
     }
   ],
@@ -218,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

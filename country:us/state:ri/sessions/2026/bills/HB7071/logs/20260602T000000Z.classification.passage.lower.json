@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "06/02/2026 House passed Sub A",
+    "date": "2026-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7071"
+}

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishes the commercial kitchen exhaust system inspection and cleaning licensing and certification act. It also requires entities inspecting or cleaning commercial exhaust systems be licensed and insured."
+      "abstract": "Establishes the commercial kitchen exhaust system inspection and cleaning licensing and certification act. Requires entities inspecting or cleaning commercial exhaust systems to be licensed and insured."
     }
   ],
   "other_titles": [],
@@ -146,6 +146,18 @@
       "_processing": {
         "log_file_created": "2026-05-30T13:17:44Z"
       }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub B",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,10 +173,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2647\u00a0 SUB A",
+      "note": "2647\u00a0 SUB B",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2647A.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2647B.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -188,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:17:44Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

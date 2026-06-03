@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibits the importation, transportation, disbursement, distribution, sale, purchase, or possession of any species of non-native (exotic) invasive plants."
+      "abstract": "Prohibits the importation, disbursement, distribution, or sale, of any species of non-native (exotic) terrestrial invasive plants."
     }
   ],
   "other_titles": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
       }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,10 +155,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2352",
+      "note": "2352\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2352.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2352A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -170,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

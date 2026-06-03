@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Amends the certain provisions relative to school waste recycling and refuse disposal and requires reports of waste audits by educational entities and reports of program participation by vendors."
+      "abstract": "Amends certain provisions relative to school waste recycling and refuse disposal and requires reports of waste audits by educational entities and reports of program participation by vendors."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
       }
     }
   ],
@@ -163,10 +175,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2438",
+      "note": "2438\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2438.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2438A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

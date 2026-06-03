@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits on and after July 1, 2027, for an insurer to consider the zip code in which the vehicle is garaged provided that the calculation of the zip code is segmented by the municipality where the vehicle is garaged."
+      "abstract": "Permits on and after July 1, 2027, for an insurer to consider the zip code in which the vehicle is garaged; provided that, the calculation of the zip code is segmented by the municipality where the vehicle is garaged."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,30 @@
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
       }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Placed on Senate Calendar  (06/04/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,10 +231,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2431",
+      "note": "2431\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2431.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2431A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

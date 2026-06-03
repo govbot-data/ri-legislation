@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2525"
+    }
+  ],
   "actions": [
     {
       "description": "02/13/2026 Introduced, referred to Senate Education",
@@ -49,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:42:25Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Scheduled for consideration  (06/04/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
       }
     }
   ],
@@ -132,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:42:25Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

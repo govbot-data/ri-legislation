@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Defines that a conspicuous display is a visual illustration showing each component of the utility bill and the cost associated with each component of said bill."
+      "abstract": "Requires that a conspicuous display be a visual illustration showing each component of the utility bill and the cost associated with each component of said bill, subject to the approval of the division of public utilities (DPUC)."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
       }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Placed on Senate Calendar  (06/04/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,10 +163,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2074",
+      "note": "2074\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2074.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2074A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -166,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

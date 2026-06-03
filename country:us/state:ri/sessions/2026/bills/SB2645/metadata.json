@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2645",
-  "title": "AN ACT RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION -- UTILITY OWNERSHIP OF ELECTRIC GENERATING FACILITIES",
+  "title": "AN ACT RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Applies to electric generating facilities generating electricity on/after 1/1/25 regarding sale/transmission of electricity/facility restructing/last-resort service."
+      "abstract": "Applies to electric generating facilities generating electricity on/after 1/1/25 regarding sale/transmission of electricity/facility restructuring/last-resort service."
     }
   ],
   "other_titles": [],
@@ -75,6 +75,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Placed on Senate Calendar  (06/04/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
       }
     }
   ],
@@ -147,10 +171,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2645",
+      "note": "2645\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2645.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2645A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -174,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }

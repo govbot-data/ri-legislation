@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides for penalties for tax preparers that purposefully mislead their clients or act as ghost preparers of tax returns."
+      "abstract": "Provides penalties for tax preparers that purposefully mislead their clients or act as ghost preparers of tax returns and requires the tax administrator publish a list of tax preparers who have had their privileges to prepare returns revoked or suspended."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-06-02T16:12:40Z"
       }
+    },
+    {
+      "description": "06/02/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/02/2026 Placed on Senate Calendar  (06/04/2026)",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:27:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,10 +139,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2810",
+      "note": "2810\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2810.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2810A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:12:40Z"
+    "logs_latest_update": "2026-06-03T16:27:45Z"
   }
 }
