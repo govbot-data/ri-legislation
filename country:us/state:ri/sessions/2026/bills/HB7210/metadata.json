@@ -90,7 +90,7 @@
       }
     },
     {
-      "description": "05/21/2026 House passed as amended",
+      "description": "05/21/2026 House read and passed",
       "date": "2026-05-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -98,7 +98,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:27:56Z"
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/05/2026 Placed on the Senate Consent Calendar  (06/09/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Senate passed in concurrence",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
       }
     }
   ],
@@ -187,10 +211,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7210\u00a0\u00a0as amended",
+      "note": "7210",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7210aa.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7210.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -214,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-22T14:27:56Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

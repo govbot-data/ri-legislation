@@ -132,6 +132,28 @@
       "_processing": {
         "log_file_created": "2026-05-06T13:55:41Z"
       }
+    },
+    {
+      "description": "06/05/2026 Scheduled for hearing and/or consideration  (06/09/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Committee recommends passage in concurrence",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T13:55:41Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

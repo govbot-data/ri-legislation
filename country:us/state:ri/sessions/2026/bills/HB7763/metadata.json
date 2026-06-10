@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides that the cost of maintaining and repairing or restoring an easement or right-of-way shall be shared by each owner of a benefited property and their costs shall be determined by and commensurate with the municipal appraisal of each property."
+      "abstract": "Repeals certain provisions of the law regarding maintenance of private easements and rights of way."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,54 @@
       "_processing": {
         "log_file_created": "2026-05-30T13:17:44Z"
       }
+    },
+    {
+      "description": "06/03/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/05/2026 Placed on House Calendar  (06/08/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 House passed Sub A",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Placed on the Senate Consent Calendar  (06/10/2026)",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,10 +163,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7763",
+      "note": "7763\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7763.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7763A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:17:44Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

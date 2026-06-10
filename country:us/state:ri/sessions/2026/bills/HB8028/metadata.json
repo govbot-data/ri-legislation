@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hb8028"
+    }
+  ],
   "actions": [
     {
       "description": "02/27/2026 Introduced, referred to House Municipal Government & Housing",
@@ -50,6 +54,52 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:36:19Z"
       }
+    },
+    {
+      "description": "06/05/2026 Scheduled for consideration  (06/08/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/05/2026 Proposed Substitute",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Placed on House Calendar  (06/10/2026)",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,10 +123,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8028",
+      "note": "8028\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8028.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8028A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -100,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:36:19Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

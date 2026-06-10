@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Revises sections of the uniform controlled substances act to remove specific opioid dosage requirements and revise the uniform controlled substances act in accordance with current standards of professional practice."
+      "abstract": "Revises sections of the uniform controlled substances act to remove specific opioid dosage requirements and revises the uniform controlled substances act in accordance with current standards of professional practice."
     }
   ],
   "other_titles": [],
@@ -54,6 +54,52 @@
       "_processing": {
         "log_file_created": "2026-05-23T13:14:00Z"
       }
+    },
+    {
+      "description": "06/05/2026 Scheduled for consideration  (06/09/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Proposed Substitute",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Placed on Senate Calendar  (06/11/2026)",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,10 +115,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3259",
+      "note": "3259\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3259.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3259A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -96,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-23T13:14:00Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

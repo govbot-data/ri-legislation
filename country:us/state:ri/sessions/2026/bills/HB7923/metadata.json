@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Revises sections of the uniform controlled substances act to remove specific opioid dosage requirements and revise the uniform controlled substances act in accordance with current standards of professional practice."
+      "abstract": "Revises sections of the uniform controlled substances act to remove specific opioid dosage requirements and revises the uniform controlled substances act in accordance with current standards of professional practice."
     }
   ],
   "other_titles": [],
@@ -112,6 +112,40 @@
       "_processing": {
         "log_file_created": "2026-04-04T12:43:12Z"
       }
+    },
+    {
+      "description": "06/05/2026 Scheduled for consideration  (06/09/2026)",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Proposed Substitute",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,10 +161,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7923",
+      "note": "7923\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7923.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7923A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-04T12:43:12Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

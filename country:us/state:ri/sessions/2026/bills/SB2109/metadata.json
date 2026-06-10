@@ -128,6 +128,30 @@
       "_processing": {
         "log_file_created": "2026-05-30T13:17:44Z"
       }
+    },
+    {
+      "description": "06/03/2026 Senate passed as amended (floor amendment)",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/04/2026 Referred to House Health & Human Services",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -199,10 +223,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2109",
+      "note": "2109\u00a0\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2109.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2109aa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -226,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:17:44Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

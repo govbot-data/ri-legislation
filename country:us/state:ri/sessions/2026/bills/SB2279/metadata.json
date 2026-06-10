@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits non-sworn public safety officers/security guards at private colleges/universities to detain individuals for no longer than 30 minutes within the campus\u2019s jurisdiction if the officer or guard believes the person committed a criminal offense."
+      "abstract": "Permits non-sworn public safety officers/security guards at private colleges/universities to detain individuals within the campus\u2019s jurisdiction if the officer or guard believes the person committed a criminal offense."
     }
   ],
   "other_titles": [],
@@ -95,6 +95,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-03T16:27:45Z"
+      }
+    },
+    {
+      "description": "06/03/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/04/2026 Placed on Senate Calendar  (06/09/2026)",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Senate passed Sub A",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
       }
     }
   ],
@@ -210,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:27:45Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

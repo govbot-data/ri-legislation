@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibits any city or town from enacting any zoning ordinance that would place restrictions on residential recovery houses that are not applicable to other residential homes."
+      "abstract": "Prohibits any city or town from enacting any zoning ordinance that would place restrictions on residential NARR-certified recovery residences that are not applicable to other residential homes."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,18 @@
       "_processing": {
         "log_file_created": "2026-05-30T13:17:44Z"
       }
+    },
+    {
+      "description": "06/03/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,10 +127,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8040",
+      "note": "8040\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8040.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8040A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:17:44Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

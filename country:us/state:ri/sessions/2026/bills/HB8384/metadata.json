@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB8384",
-  "title": "AN ACT RELATING TO MOTOR AND OTHER MOTOR VEHICLES -- MOTOR VEHICLE OFFENSES -- CASEY'S LAW",
+  "title": "AN ACT RELATING TO MOTOR AND OTHER VEHICLES -- MOTOR VEHICLE OFFENSES -- CASEY'S LAW",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -53,6 +53,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-30T13:44:08Z"
+      }
+    },
+    {
+      "description": "06/03/2026 Scheduled for consideration  (06/05/2026)",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:39Z"
+      }
+    },
+    {
+      "description": "06/03/2026 Proposed Substitute",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:39Z"
+      }
+    },
+    {
+      "description": "06/05/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:39Z"
+      }
+    },
+    {
+      "description": "06/08/2026 Placed on House Calendar  (06/10/2026)",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:39Z"
       }
     }
   ],
@@ -141,10 +187,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8384",
+      "note": "8384\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8384.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8384A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -168,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:44:08Z"
+    "logs_latest_update": "2026-06-10T15:21:39Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Permits those individuals convicted of multiple felonies and misdemeanors to have their records expunged and provides criteria for the court to consider in determining whether the person is of good moral character."
+      "abstract": "Permits those individuals convicted of multiple felonies and misdemeanors to have their records expunged and provides criteria for the court to consider in determining whether the person is of good character."
     }
   ],
   "other_titles": [],
@@ -101,6 +101,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-02T13:01:24Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Placed on House Calendar  (06/09/2026)",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 House passed Sub A in concurrence",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
       }
     }
   ],
@@ -216,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:01:24Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

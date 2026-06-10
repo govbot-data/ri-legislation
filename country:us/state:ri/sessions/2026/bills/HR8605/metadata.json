@@ -54,6 +54,76 @@
       "_processing": {
         "log_file_created": "2026-06-03T16:27:45Z"
       }
+    },
+    {
+      "description": "06/03/2026 Scheduled for consideration  (06/05/2026)",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/04/2026 Proposed Substitute",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/05/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/06/2026 Placed on House Calendar  (06/08/2026)",
+      "date": "2026-06-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/08/2026 House passed Sub A",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Placed on Senate Calendar  (06/11/2026)",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,10 +139,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "8605",
+      "note": "8605\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8605.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8605A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -96,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:27:45Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

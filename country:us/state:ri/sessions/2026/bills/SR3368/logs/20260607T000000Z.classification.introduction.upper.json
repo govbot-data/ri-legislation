@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "06/07/2026 Introduced, referred to Senate Finance",
+    "date": "2026-06-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR3368"
+}

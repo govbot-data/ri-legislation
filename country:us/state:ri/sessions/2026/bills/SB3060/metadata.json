@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires pharmacy benefit managers to apply for certificate of authority from DBR to operate such a business in this state. Empowers the health insurance commissioner to oversee pharmacy benefit managers and penalize violations."
+      "abstract": "Requires pharmacy benefit managers to apply for certificate of authority from the office of health insurance commissioner to operate such a business in this state and empowers the commissioner to oversee pharmacy benefit managers and penalize violations."
     }
   ],
   "other_titles": [],
@@ -124,6 +124,52 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:38:31Z"
       }
+    },
+    {
+      "description": "06/07/2026 Scheduled for consideration  (06/09/2026)",
+      "date": "2026-06-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/07/2026 Proposed Substitute",
+      "date": "2026-06-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Committee recommends passage of Sub B",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Placed on House Calendar  (06/10/2026)",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,10 +225,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3060\u00a0 SUB A\u00a0as amended",
+      "note": "3060\u00a0 SUB B",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3060Aaa.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3060B.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -206,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:38:31Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

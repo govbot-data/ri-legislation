@@ -90,7 +90,7 @@
       }
     },
     {
-      "description": "05/29/2026 Placed on Senate Calendar  (06/03/2026)",
+      "description": "05/29/2026 Placed on Senate Calendar  (06/04/2026)",
       "date": "2026-05-29",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -98,7 +98,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-30T13:17:44Z"
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/04/2026 Senate passed Sub A as amended (floor amendment)",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Placed on House Calendar  (06/10/2026)",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
       }
     }
   ],
@@ -123,10 +147,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2912\u00a0 SUB A",
+      "note": "2912\u00a0 SUB A\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2912A.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2912Aaa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:17:44Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

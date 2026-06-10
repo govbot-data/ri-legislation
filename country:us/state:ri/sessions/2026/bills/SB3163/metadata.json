@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Allows sealing of eviction records for defective complaint or lack of jurisdiction for individuals between the ages of eighteen (18) and twenty-one (21) who didn't sign the lease."
+      "abstract": "Allows for the sealing of an eviction record for a defective complaint and/or lack of jurisdiction and would, upon motion of a person between 18 and 21 years of age, seal a person's association with an eviction under certain circumstances."
     }
   ],
   "other_titles": [],
@@ -76,6 +76,42 @@
       "_processing": {
         "log_file_created": "2026-06-03T16:27:45Z"
       }
+    },
+    {
+      "description": "06/03/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/04/2026 Placed on Senate Calendar  (06/09/2026)",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/09/2026 Senate passed Sub A",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,10 +135,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3163",
+      "note": "3163\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3163.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3163A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -126,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:27:45Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "That a special joint legislative commission be created consisting of 20 members and report its findings and recommendations to the General Assembly no later than January 5, 2027, and said commission expires on March 5, 2027."
+      "abstract": "That a special joint legislative commission be created consisting of 21 members and report its findings and recommendations to the General Assembly no later than April 1, 2027, and said commission expires on June 1, 2027."
     }
   ],
   "other_titles": [],
@@ -146,6 +146,30 @@
       "_processing": {
         "log_file_created": "2026-06-03T16:27:45Z"
       }
+    },
+    {
+      "description": "06/03/2026 Committee recommends passage of Sub B",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
+    },
+    {
+      "description": "06/07/2026 Placed on Senate Calendar  (06/10/2026)",
+      "date": "2026-06-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:21:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,10 +201,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "7532\u00a0 SUB A\u00a0as amended",
+      "note": "7532\u00a0 SUB B",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7532Aaa.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7532B.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -204,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:27:45Z"
+    "logs_latest_update": "2026-06-10T15:21:38Z"
   }
 }
