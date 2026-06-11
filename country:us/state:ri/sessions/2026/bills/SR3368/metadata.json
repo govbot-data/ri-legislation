@@ -56,7 +56,7 @@
       }
     },
     {
-      "description": "06/09/2026 Placed on Senate Calendar  (06/11/2026)",
+      "description": "06/09/2026 Placed on Senate Calendar  (06/10/2026)",
       "date": "2026-06-09",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -64,7 +64,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T15:21:38Z"
+        "log_file_created": "2026-06-11T15:45:56Z"
+      }
+    },
+    {
+      "description": "06/10/2026 Senate passed as amended (floor amendment)",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:45:56Z"
       }
     }
   ],
@@ -89,10 +101,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3368",
+      "note": "3368\u00a0\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3368.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3368aa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -116,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T15:21:38Z"
+    "logs_latest_update": "2026-06-11T15:45:56Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2667",
-  "title": "AN ACT RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT",
+  "title": "AN ACT RELATING TO HUMAN SERVICES -- THE RHODE ISLAND WORKS PROGRAM--RHODE ISLAND CHILD CARE IS ESSENTIAL ACT",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -76,6 +76,30 @@
       "_processing": {
         "log_file_created": "2026-06-10T15:21:38Z"
       }
+    },
+    {
+      "description": "06/10/2026 Committee recommends passage of Sub A",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:45:56Z"
+      }
+    },
+    {
+      "description": "06/10/2026 Placed on Senate Calendar  (06/11/2026)",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:45:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,10 +147,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "2667",
+      "note": "2667\u00a0 SUB A",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2667.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2667A.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T15:21:38Z"
+    "logs_latest_update": "2026-06-11T15:45:56Z"
   }
 }
