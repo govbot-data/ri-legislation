@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Adds a new category to the eligibility of childcare assistance to include a \"protective services category\" which would include foster or kinship children served through DCYF."
+      "abstract": "Establishes a procedure to permit DCYF to apply for benefits on behalf of children, who are eligible, that are within temporary custody or guardianship of the department."
     }
   ],
   "other_titles": [],
@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-06-11T15:45:56Z"
       }
+    },
+    {
+      "description": "06/11/2026 Senate passed Sub A",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -142,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:45:56Z"
+    "logs_latest_update": "2026-06-13T13:48:36Z"
   }
 }

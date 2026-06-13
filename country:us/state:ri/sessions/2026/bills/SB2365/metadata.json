@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Increases the federal adjusted gross income threshold for modification for taxable social security income. Amends references to federal adjusted gross income as pertains to modification of taxable retirement income from certain pension plans or annuities."
+      "abstract": "Eliminates the age requirement for modification on Social Security income."
     }
   ],
   "other_titles": [],
@@ -99,6 +99,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-11T15:45:56Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Senate passed Sub A",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
       }
     }
   ],
@@ -198,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:45:56Z"
+    "logs_latest_update": "2026-06-13T13:48:36Z"
   }
 }

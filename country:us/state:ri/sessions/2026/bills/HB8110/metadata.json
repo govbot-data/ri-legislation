@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires landlords who rent shoreline property to provide their tenants, before the start of the tenancy, with a detailed, written disclosure regarding their shoreline access rights."
+      "abstract": "Requires owners or landlords who rent shoreline property to provide their tenants, before the start of the tenancy, with a detailed, written disclosure regarding public shoreline access rights."
     }
   ],
   "other_titles": [],
@@ -100,6 +100,42 @@
       "_processing": {
         "log_file_created": "2026-06-11T15:45:56Z"
       }
+    },
+    {
+      "description": "06/11/2026 House passed Sub A",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Placed on Senate Calendar  (06/11/2026)",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Senate passed Sub A in concurrence",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:45:56Z"
+    "logs_latest_update": "2026-06-13T13:48:36Z"
   }
 }

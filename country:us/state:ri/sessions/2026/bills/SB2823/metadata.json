@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishes a child tax credit in the amount of six hundred fifty dollars ($650) for eligible taxpayers adjusted for inflation annually commencing January 1, 2027."
+      "abstract": "Establishes a child tax credit in the amount of three hundred thirty dollars ($330) for eligible taxpayers adjusted for inflation annually commencing January 1, 2027."
     }
   ],
   "other_titles": [],
@@ -97,6 +97,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-11T15:45:56Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Senate passed Sub A",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
       }
     }
   ],
@@ -204,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:45:56Z"
+    "logs_latest_update": "2026-06-13T13:48:36Z"
   }
 }

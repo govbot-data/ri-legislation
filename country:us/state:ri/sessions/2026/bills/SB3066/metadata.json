@@ -232,6 +232,42 @@
       "_processing": {
         "log_file_created": "2026-06-11T15:45:56Z"
       }
+    },
+    {
+      "description": "06/11/2026 House passed Sub B as amended (floor amendment)",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Placed on Senate Calendar  (06/11/2026)",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Senate passed Sub B as amended in concurrence",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:48:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -279,10 +315,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "3066\u00a0 SUB B",
+      "note": "3066\u00a0 SUB B\u00a0as amended",
       "links": [
         {
-          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3066B.pdf",
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3066Baa.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -306,6 +342,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-11T15:45:56Z"
+    "logs_latest_update": "2026-06-13T13:48:36Z"
   }
 }
