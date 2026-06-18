@@ -148,6 +148,18 @@
       "_processing": {
         "log_file_created": "2026-06-10T15:21:38Z"
       }
+    },
+    {
+      "description": "06/17/2026 Effective without Governor's signature",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:56:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -214,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T15:21:38Z"
+    "logs_latest_update": "2026-06-18T14:56:30Z"
   }
 }
