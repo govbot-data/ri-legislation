@@ -206,6 +206,18 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:53:16Z"
       }
+    },
+    {
+      "description": "06/22/2026 Signed by Governor",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:37:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +276,6 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:53:16Z"
+    "logs_latest_update": "2026-06-23T14:37:10Z"
   }
 }
